@@ -1,1 +1,49 @@
-[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add *[0K[?25h[?25l$ git add[0K[11G[?25h[?25l$ git add .[0K[?25h
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add *[0K[?25h[?25l$ git add[0K[11G[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io/.Rproj.user[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit a[0K[?25hd[0Kd[0K[18G[?25l$ git commit add p[0K[?25ha[0Kp[0Ke[0Kr[0K[?25l$ git commit add pape[0K[?25h[?25l$ git commit add pap[0K[?25h[?25l$ git commit add pa[0K[?25h[?25l$ git commit add p[0K[?25h[?25l$ git commit add[0K[18G[?25h[17G[?25l$ git commit ad[0K[?25h[?25l$ git commit a[0K[?25h[?25l$ git commit[0K[14G[?25h[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "a"[0K[19G[?25h[?25l$ git commit -m "ad"[0K[20G[?25h[?25l$ git commit -m "add"[0K[21G[?25h[?25l$ git commit -m "add "[0K[22G[?25h[?25l$ git commit -m "add p"[0K[23G[?25h[?25l$ git commit -m "add pu"[0K[24G[?25h[?25l$ git commit -m "add pub"[0K[25G[?25h[?25l
+[0K[?25h[master 6e899be] add pub[0K[?25l
+ 40 files changed, 1 insertion(+), 980 deletions(-)[0K
+ rewrite .Rproj.user/C66BC18B/console06/4BF4239C (100%)[0K
+ delete mode 100644 .Rproj.user/C66BC18B/console06/INDEX001[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/prop/A392060[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/prop/A92BCEFE[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/prop/C48BB905[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/prop/DB7484F0[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/prop/DCE21D5D[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/prop/E76AFCF9[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/prop/E9AA3143[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/prop/INDEX[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/1DB7A75[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/1DB7A75-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/29EA6350-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/33C83F46[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/33C83F46-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/35A4A92B[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/35A4A92B-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/38C3FB23-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/575D4EE7-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/65AEA4A[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/65AEA4A-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/87B64A0F[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/87B64A0F-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/950FFD5[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/950FFD5-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/C82693DF[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/C82693DF-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/C9D0DEEA-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/D27485FF-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/E1F329DA-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/FB9C1EA2[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/FB9C1EA2-contents[0K
+ delete mode 100644 .Rproj.user/C66BC18B/sources/s-14BAB33F/lock_file[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/B39D6DD2-2018-07-08-r-rmarkdown/1/s/chunks.json[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/D027918D-2015-07-23-r-rmarkdown/1/C66BC18B14BAB33F/chunks.json[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/D027918D-2015-07-23-r-rmarkdown/1/s/chunks.json[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/E003351C-2018-07-08-r-rmarkdown/1/C66BC18B14BAB33F/chunks.json[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/E003351C-2018-07-08-r-rmarkdown/1/s/chunks.json[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/paths[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io/.Rproj.user[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "add pub"[0K[?25h[?25l$ git add .[0K[?25h/[0Kc[0Ko[0K[?25l$ git add ./c[0K[?25h[?25l$ git add ./[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git add[0K[11G[?25h[?25l$ git add c[0K[?25ho[0K[?25l$ git add c[0K[?25h[?25l$ git add[0K[11G[?25h[10G[?25l$ git ad[0K[?25h[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h
