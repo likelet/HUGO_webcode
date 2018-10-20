@@ -1,0 +1,510 @@
+[0m[0K]0;:/e/project/R/likelet.github.io[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+archetypes  config.toml  content  data  index.Rmd  layouts  likelet.github.io.Rproj  public  resources  static  themes[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hInitialized empty Git repository in E:/project/R/likelet.github.io/.git/[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add *[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in content/home/contact.md.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/home/hero.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/home/hero_carousel.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in content/home/posts.md.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/home/projects.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/home/publications.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/home/publications_selected.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/home/search.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/home/tags.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/home/talks.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/home/talks_selected.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/home/teaching.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/post/_index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/privacy.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in content/project/external-project/index.md.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/project/internal-project/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/publication/_index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/publication/clothing-search/cite.bib.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in content/publication/clothing-search/index.md.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/publication/person-re-id/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/slides/example-slides.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/talk/_index.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in content/talk/example/index.md.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/tutorial/_index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in content/tutorial/example.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/404.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/categories/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/categories/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/categories/install/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in public/categories/install/index.xml.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/categories/r/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/categories/r/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/home/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in public/index.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/js/hugo-academic.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/js/search.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/js/vendor/reveal.js/plugin/notes/notes.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/js/vendor/reveal.js/plugin/notes/notes.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/post/2018-07-08-r-rmarkdown/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/post/2018-07-20-r-rmarkdown/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/post/2018-07-20-tabix-your-bed/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in public/post/getting-started/index.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/post/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/post/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/privacy/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in public/project/external-project/index.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/project/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/project/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/project/internal-project/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/publication/clothing-search/cite.bib.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in public/publication/clothing-search/index.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/publication/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/publication/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in public/publication/person-re-id/index.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/publication_types/1/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/publication_types/1/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/publication_types/2/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/publication_types/2/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/publication_types/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/publication_types/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/site.webmanifest.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/sitemap.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/slides/example-slides/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/slides/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/styles.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/academic/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/academic/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/bed/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/bed/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/data-format/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/data-format/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/deep-learning/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/deep-learning/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/demo/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/demo/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in public/tags/processing/index.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/processing/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/r-markdown/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/r-markdown/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/regression/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/regression/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/setting/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tags/setting/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/talk/example/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/talk/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in publi[0K[?25hc/talk/index.xml.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tutorial/example/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tutorial/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in public/tutorial/index.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/.editorconfig.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/.github/PULL_REQUEST_TEMPLATE.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hugo-academic/.gitignore.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/LICENSE.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/README.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/archetypes/default.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/archetypes/home.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/archetypes/post/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/archetypes/project/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/archetypes/publication/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/archetypes/slides.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/archetypes/talk/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/assets/css/reveal.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/academic.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/assets.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/fonts/classic.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/fonts/default.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/fonts/playfair.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/i18n/languages.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/themes/1950s.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/themes/coffee.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/themes/dark.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/themes/default.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/themes/forest.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/data/themes/ocean.toml.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hugo-academic/demo.sh.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/config.toml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/about.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/contact.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/experience.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/hero.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/hero_carousel.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/posts.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/projects.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/publications.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/publications_selected.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/search.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/skills.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/tags.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/talks.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/talks_selected.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/home/teaching.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/post/_index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/post/getting-started/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/privacy.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/project/external-project/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/project/internal-project/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/publication/_index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/publication/clothing-search/cite.bib.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/publication/clothing-search/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/publication/person-re-id/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/slides/example-slides.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/talk/_index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/talk/example/index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/tutorial/_index.md.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/exampleSite/content/tutorial/example.md.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hugo-academic/i18n/ca.yaml.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/de.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/el.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/en.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/es.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/eu.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/fr.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/id.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/it.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/ja.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/ko.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/nl.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/pl.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/pt.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/ru.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/tr.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/vi.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/i18n/zh.yaml.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hugo-academic/layouts/404.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/_default/list.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/_default/single.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/docs/list.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/docs/single.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/index.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/index.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/index.json.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/comments.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/cookie_consent.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/css/academic.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/css/parse_theme.css.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/docs_layout.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/docs_sidebar.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/footer.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/footer_container.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/footer_section.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/header.html.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/navbar.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/page_header.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/page_metadata.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/pagination.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/post_li_detailed.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/post_li_simple.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/post_li_stream.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/publication_li_apa.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/publication_li_detailed.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/publication_li_mla.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/publication_li_simple.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/publication_li_stream.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/publication_links.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/section_pager.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/share.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/slides.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/tags.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/talk_li_detailed.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/talk_li_simple.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/talk_li_stream.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/talk_links.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widget_page.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/about.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/contact.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/custom.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/experience.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/featurette.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/hero.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/hero_carousel.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/posts.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/projects.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/publications.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/publications_selected.html.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/search.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/tag_cloud.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/talks.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/partials/widgets/talks_selected.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/project/single.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/publication/single.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/rss.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/section/post.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/section/publication.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/section/talk.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/alert.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/figure.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/fragment.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/gallery.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/gdocs.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/list_categories.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/list_tags.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/slide.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/speaker_note.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/toc.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/shortcodes/video.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/sitemap.xml.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/slides/baseof.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/layouts/slides/single.html.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hugo-academic/layouts/talk/single.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/static/js/hugo-academic.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/static/js/search.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/static/js/vendor/reveal.js/plugin/notes/notes.html.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/static/js/vendor/reveal.js/plugin/notes/notes.js.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/static/site.webmanifest.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in themes/hugo-academic/theme.toml.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add *[0K[?25h[?25l$ git add[0K[11G[?25h[?25l$ git add .[0K[?25h
