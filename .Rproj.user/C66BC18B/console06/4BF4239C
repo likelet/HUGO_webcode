@@ -1,1327 +1,0 @@
-
- create mode 100644 public/tags/bed/page/1/index.html[0K
- create mode 100644 public/tags/data-format/index.html[0K
- create mode 100644 public/tags/data-format/index.xml[0K
- create mode 100644 public/tags/data-format/page/1/index.html[0K
- create mode 100644 public/tags/deep-learning/index.html[0K
- create mode 100644 public/tags/deep-learning/index.xml[0K
- create mode 100644 public/tags/deep-learning/page/1/index.html[0K
- create mode 100644 public/tags/demo/index.html[0K
- create mode 100644 public/tags/demo/index.xml[0K
- create mode 100644 public/tags/demo/page/1/index.html[0K
- create mode 100644 public/tags/index.html[0K
- create mode 100644 public/tags/index.xml[0K
- create mode 100644 public/tags/page/1/index.html[0K
- create mode 100644 public/tags/processing/index.html[0K
- create mode 100644 public/tags/processing/index.xml[0K
- create mode 100644 public/tags/processing/page/1/index.html[0K
- create mode 100644 public/tags/r-markdown/index.html[0K
- create mode 100644 public/tags/r-markdown/index.xml[0K
- create mode 100644 public/tags/r-markdown/page/1/index.html[0K
- create mode 100644 public/tags/regression/index.html[0K
- create mode 100644 public/tags/regression/index.xml[0K
- create mode 100644 public/tags/regression/page/1/index.html[0K
- create mode 100644 public/tags/setting/index.html[0K
- create mode 100644 public/tags/setting/index.xml[0K
- create mode 100644 public/tags/setting/page/1/index.html[0K
- create mode 100644 public/talk/example/featured.jpg[0K
- create mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_box.jpg[0K
- create mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_1600x400_fill_q90_box_right.jpg[0K
- create mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_680x500_fill_q90_box_right.jpg[0K
- create mode 100644 public/talk/example/index.html[0K
- create mode 100644 public/talk/index.html[0K
- create mode 100644 public/talk/index.xml[0K
- create mode 100644 public/tutorial/example/index.html[0K
- create mode 100644 public/tutorial/index.html[0K
- create mode 100644 public/tutorial/index.xml[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "add public"[0K[?25h[?25l$ git add -A[0K[14G[?25h[?25l$ git commit -m "add public"[0K[?25h[?25l$ git add -A[0K[14G[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git push origin master[0K[?25h[?25l
-[0K[?25hEnumerating objects: 375, done.[0K[?25l
-Counting objects:  91% (342/375)[0K[1G[?25hCounting objects: 100% (375/375), done.[0K[?25l
-Delta compression using up to 4 threads.[0K
-Compressing objects: 100% (163/163), done.[0K
-Writing objects:  24% (51/209)[0K[1G[?25hWriting objects: 100% (209/209), 42.60 KiB | 1.77 MiB/s, done.[0K[?25l
-Total 209 (delta 107), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:   0% (0/107)[0K[1G[?25h[?25lremote: Resolving deltas:  79% (85/107)[0K[1G[?25hremote: Resolving deltas: 100% (107/107), completed with 63 local objects.[0K[?25l
-[0K[?25hTo https://github.com/likelet/HUGO_webcode.git[0K[?25l
-   2231175..2c77515  master -> master[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add public"[0K[?25h[?25l$ git add -A[0K[14G[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git add -A[0K[14G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "add public"[0K[?25h[28G[27G[26G[25G[24G[23G[22G[21G[?25l$ git commit -m "ad public"[0K[20G[?25h[?25l$ git commit -m "a public"[0K[19G[?25h[?25l$ git commit -m " public"[0K[18G[?25h[?25l$ git commit -m "d public"[0K[19G[?25h[?25l$ git commit -m "df public"[0K[20G[?25h[?25l$ git commit -m "dfe public"[0K[21G[?25h[?25l$ git commit -m "df public"[0K[20G[?25h[?25l$ git commit -m "d public"[0K[19G[?25h[?25l$ git commit -m "de public"[0K[20G[?25h[?25l$ git commit -m "del public"[0K[21G[?25h[?25l$ git commit -m "dele public"[0K[22G[?25h[?25l$ git commit -m "dele  public"[0K[22G[?25h[?25l$ git commit -m "delet public"[0K[23G[?25h[?25l$ git commit -m "delete public"[0K[24G[?25h[?25l$ git commit -m "delete  public"[0K[25G[?25h[?25l
-[0K[?25h[master 6bd5e9f] delete  public[0K[?25l
- 152 files changed, 403 insertions(+), 42594 deletions(-)[0K
- delete mode 100644 public/404.html[0K
- delete mode 100644 public/categories/index.html[0K
- delete mode 100644 public/categories/index.xml[0K
- delete mode 100644 public/categories/install/index.html[0K
- delete mode 100644 public/categories/install/index.xml[0K
- delete mode 100644 public/categories/install/page/1/index.html[0K
- delete mode 100644 public/categories/page/1/index.html[0K
- delete mode 100644 public/categories/r/index.html[0K
- delete mode 100644 public/categories/r/index.xml[0K
- delete mode 100644 public/categories/r/page/1/index.html[0K
- delete mode 100644 public/css/reveal_custom.min.css[0K
- delete mode 100644 public/home/index.xml[0K
- delete mode 100644 public/img/boards.jpg[0K
- delete mode 100644 public/img/headers/bubbles-wide.jpg[0K
- delete mode 100644 public/img/icon-192.png[0K
- delete mode 100644 public/img/icon.png[0K
- delete mode 100644 public/img/photo.jpg[0K
- delete mode 100644 public/img/portrait.jpg[0K
- delete mode 100644 public/index.html[0K
- delete mode 100644 public/index.json[0K
- delete mode 100644 public/index.xml[0K
- delete mode 100644 public/js/hugo-academic.js[0K
- delete mode 100644 public/js/search.js[0K
- delete mode 100644 public/js/vendor/reveal.js/plugin/notes/notes.html[0K
- delete mode 100644 public/js/vendor/reveal.js/plugin/notes/notes.js[0K
- delete mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[0K
- delete mode 100644 public/post/2018-07-08-r-rmarkdown/index.html[0K
- delete mode 100644 public/post/2018-07-20-r-rmarkdown/index.html[0K
- delete mode 100644 public/post/index.html[0K
- delete mode 100644 public/post/index.xml[0K
- delete mode 100644 public/post/page/1/index.html[0K
- delete mode 100644 public/project/external-project/featured.jpg[0K
- delete mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_1600x400_fill_q90_box_smar[0Kt
-1.jpg[0K
- delete mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_550x550_fill_q90_box_smart[0K1
-.jpg[0K
- delete mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_680x500_fill_q90_box_smart[0K1
-.jpg[0K
- delete mode 100644 public/project/external-project/index.html[0K
- delete mode 100644 public/project/index.html[0K
- delete mode 100644 public/project/index.xml[0K
- delete mode 100644 public/project/internal-project/featured.jpg[0K
- delete mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_1600x400_fill_q90_box_smar[0Kt
-1.jpg[0K
- delete mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x550_fill_q90_box_smart[0K1
-.jpg[0K
- delete mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_680x500_fill_q90_box_smart[0K1
-.jpg[0K
- delete mode 100644 public/project/internal-project/index.html[0K
- delete mode 100644 public/project/page/1/index.html[0K
- delete mode 100644 public/publication/bai2016chemotherapy/bai2016chemotherapy.bib[0K
- delete mode 100644 public/publication/bai2016chemotherapy/index.html[0K
- delete mode 100644 public/publication/feng2017firmiana/feng2017firmiana.bib[0K
- delete mode 100644 public/publication/feng2017firmiana/index.html[0K
- delete mode 100644 public/publication/index.html[0K
- delete mode 100644 public/publication/index.xml[0K
- delete mode 100644 public/publication/kan2017functional/index.html[0K
- delete mode 100644 public/publication/kan2017functional/kan2017functional.bib[0K
- delete mode 100644 public/publication/li2016clinical/index.html[0K
- delete mode 100644 public/publication/li2016clinical/li2016clinical.bib[0K
- delete mode 100644 public/publication/li2016development/index.html[0K
- delete mode 100644 public/publication/li2016development/li2016development.bib[0K
- delete mode 100644 public/publication/li2016mutation/index.html[0K
- delete mode 100644 public/publication/li2016mutation/li2016mutation.bib[0K
- delete mode 100644 public/publication/li2017bilateral/index.html[0K
- delete mode 100644 public/publication/li2017bilateral/li2017bilateral.bib[0K
- delete mode 100644 public/publication/li2017more/index.html[0K
- delete mode 100644 public/publication/li2017more/li2017more.bib[0K
- delete mode 100644 public/publication/liu2015ibs/index.html[0K
- delete mode 100644 public/publication/liu2015ibs/liu2015ibs.bib[0K
- delete mode 100644 public/publication/liu2016conformation/index.html[0K
- delete mode 100644 public/publication/liu2016conformation/liu2016conformation.bib[0K
- delete mode 100644 public/publication/liu2016htert/index.html[0K
- delete mode 100644 public/publication/liu2016htert/liu2016htert.bib[0K
- delete mode 100644 public/publication/liu2018dysregulation/index.html[0K
- delete mode 100644 public/publication/liu2018dysregulation/liu2018dysregulation.bib[0K
- delete mode 100644 public/publication/lu2018me1/index.html[0K
- delete mode 100644 public/publication/lu2018me1/lu2018me1.bib[0K
- delete mode 100644 public/publication/shi2015systematic/index.html[0K
- delete mode 100644 public/publication/shi2015systematic/shi2015systematic.bib[0K
- delete mode 100644 public/publication/wang2018cpt1a/index.html[0K
- delete mode 100644 public/publication/wang2018cpt1a/wang2018cpt1a.bib[0K
- delete mode 100644 public/publication/wang2018genomic/index.html[0K
- delete mode 100644 public/publication/wang2018genomic/wang2018genomic.bib[0K
- delete mode 100644 public/publication/xie2016gps/index.html[0K
- delete mode 100644 public/publication/xie2016gps/xie2016gps.bib[0K
- delete mode 100644 public/publication/xie2017virusmap/index.html[0K
- delete mode 100644 public/publication/xie2017virusmap/xie2017virusmap.bib[0K
- delete mode 100644 public/publication/xu2017circulating/index.html[0K
- delete mode 100644 public/publication/xu2017circulating/xu2017circulating.bib[0K
- delete mode 100644 public/publication/ye2018whole/index.html[0K
- delete mode 100644 public/publication/ye2018whole/ye2018whole.bib[0K
- delete mode 100644 public/publication/zeng2018microrna/index.html[0K
- delete mode 100644 public/publication/zeng2018microrna/zeng2018microrna.bib[0K
- delete mode 100644 public/publication/zhang2017expression/index.html[0K
- delete mode 100644 public/publication/zhang2017expression/zhang2017expression.bib[0K
- delete mode 100644 public/publication/zhao2014gps/index.html[0K
- delete mode 100644 public/publication/zhao2014gps/zhao2014gps.bib[0K
- delete mode 100644 public/publication/zhao2018idea/index.html[0K
- delete mode 100644 public/publication/zhao2018idea/zhao2018idea.bib[0K
- delete mode 100644 public/publication/zhao2018lncpipe/index.html[0K
- delete mode 100644 public/publication/zhao2018lncpipe/zhao2018lncpipe.bib[0K
- delete mode 100644 public/publication/zuo2018pan/index.html[0K
- delete mode 100644 public/publication/zuo2018pan/zuo2018pan.bib[0K
- delete mode 100644 public/publication_types/0/index.html[0K
- delete mode 100644 public/publication_types/0/index.xml[0K
- delete mode 100644 public/publication_types/0/page/1/index.html[0K
- delete mode 100644 public/publication_types/2/index.html[0K
- delete mode 100644 public/publication_types/2/index.xml[0K
- delete mode 100644 public/publication_types/2/page/1/index.html[0K
- delete mode 100644 public/publication_types/2/page/2/index.html[0K
- delete mode 100644 public/publication_types/2/page/3/index.html[0K
- delete mode 100644 public/publication_types/index.html[0K
- delete mode 100644 public/publication_types/index.xml[0K
- delete mode 100644 public/publication_types/page/1/index.html[0K
- delete mode 100644 public/site.webmanifest[0K
- delete mode 100644 public/sitemap.xml[0K
- delete mode 100644 public/slides/example-slides/index.html[0K
- delete mode 100644 public/slides/index.xml[0K
- delete mode 100644 public/styles.css[0K
- delete mode 100644 public/tags/bed/index.html[0K
- delete mode 100644 public/tags/bed/index.xml[0K
- delete mode 100644 public/tags/bed/page/1/index.html[0K
- delete mode 100644 public/tags/data-format/index.html[0K
- delete mode 100644 public/tags/data-format/index.xml[0K
- delete mode 100644 public/tags/data-format/page/1/index.html[0K
- delete mode 100644 public/tags/deep-learning/index.html[0K
- delete mode 100644 public/tags/deep-learning/index.xml[0K
- delete mode 100644 public/tags/deep-learning/page/1/index.html[0K
- delete mode 100644 public/tags/demo/index.html[0K
- delete mode 100644 public/tags/demo/index.xml[0K
- delete mode 100644 public/tags/demo/page/1/index.html[0K
- delete mode 100644 public/tags/index.html[0K
- delete mode 100644 public/tags/index.xml[0K
- delete mode 100644 public/tags/page/1/index.html[0K
- delete mode 100644 public/tags/processing/index.html[0K
- delete mode 100644 public/tags/processing/index.xml[0K
- delete mode 100644 public/tags/processing/page/1/index.html[0K
- delete mode 100644 public/tags/r-markdown/index.html[0K
- delete mode 100644 public/tags/r-markdown/index.xml[0K
- delete mode 100644 public/tags/r-markdown/page/1/index.html[0K
- delete mode 100644 public/tags/regression/index.html[0K
- delete mode 100644 public/tags/regression/index.xml[0K
- delete mode 100644 public/tags/regression/page/1/index.html[0K
- delete mode 100644 public/tags/setting/index.html[0K
- delete mode 100644 public/tags/setting/index.xml[0K
- delete mode 100644 public/tags/setting/page/1/index.html[0K
- delete mode 100644 public/talk/example/featured.jpg[0K
- delete mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_box.jpg[0K
- delete mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_1600x400_fill_q90_box_right.jpg[0K
- delete mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_680x500_fill_q90_box_right.jpg[0K
- delete mode 100644 public/talk/example/index.html[0K
- delete mode 100644 public/talk/index.html[0K
- delete mode 100644 public/talk/index.xml[0K
- delete mode 100644 public/tutorial/example/index.html[0K
- delete mode 100644 public/tutorial/index.html[0K
- delete mode 100644 public/tutorial/index.xml[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "delete  public"[0K[?25h[?25l$ git add -A[0K[14G[?25h[?25l$ git push origin master[0K[?25h[?25l
-[0K[?25hEnumerating objects: 11, done.[0K[?25l
-Counting objects: 100% (11/11), done.[0K
-Delta compression using up to 4 threads.[0K
-Compressing objects: 100% (3/3), done.[0K
-Writing objects: 100% (6/6), 1.93 KiB | 989.00 KiB/s, done.[0K
-Total 6 (delta 2), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K[?25l
-[0K[?25hTo https://github.com/likelet/HUGO_webcode.git[0K[?25l
-   2c77515..6bd5e9f  master -> master[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:[0K[?25hl[0Ki[0Kk[0Ke[0Kl[0Ke[0Kt[0K/[0Kl[0Ki[0Kk[0Ke[0Kl[0Ke[0Kt[0K.[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Ki[0Ku[0K[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.i[0K[?25ho[0K.[0Kg[0Ki[0Kt[0K[76G[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git p[0K[?25hu[0Kb[0Kl[0Ki[0Kc[0Kh[0K[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
-[0K[?25hA git directory for 'public' is found locally with remote(s):[0K[?25l
-[0K[?25h  origin        git@github.com:likelet/likelet.github.io.git[0K[?25l
-[0K[?25hIf you want to reuse this local git directory instead of cloning again from[0K[?25l
-  git@github.com:likelet/likelet.github.io.git[0K
-use the '--force' option. If the local git directory is not the correct repo[0K
-or you are unsure what this means choose another name with the '--name' option.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[81G[80G[79G[78G[77G[76G[75G[74G[73G[74G[75G[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.gi public[0K[74G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.g public[0K[73G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io. public[0K[72G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io public[0K[71G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.i public[0K[70G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github. public[0K[69G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github public[0K[68G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.githu public[0K[67G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.gith public[0K[66G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.git public[0K[65G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.gi public[0K[64G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.g public[0K[63G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet. public[0K[62G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet public[0K[61G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likele public[0K[60G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likel public[0K[59G[?25h[?25l$ git submodule add -b master git@github.com:likelet/like public[0K[58G[?25h[?25l$ git submodule add -b master git@github.com:likelet/lik public[0K[57G[?25h[?25l$ git submodule add -b master git@github.com:likelet/li public[0K[56G[?25h[?25l$ git submodule add -b master git@github.com:likelet/l public[0K[55G[?25h[?25l$ git submodule add -b master git@github.com:likelet/ public[0K[54G[?25h[?25l$ git submodule add -b master git@github.com:likelet public[0K[53G[?25h[?25l$ git submodule add -b master git@github.com:likele public[0K[52G[?25h[?25l$ git submodule add -b master git@github.com:likel public[0K[51G[?25h[?25l$ git submodule add -b master git@github.com:like public[0K[50G[?25h[?25l$ git submodule add -b master git@github.com:lik public[0K[49G[?25h[?25l$ git submodule add -b master git@github.com:li public[0K[48G[?25h[?25l$ git submodule add -b master git@github.com:l public[0K[47G[?25h[?25l$ git submodule add -b master git@github.com: public[0K[46G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[75G[?25h[?25l
-[0K[?25hA git directory for 'public' is found locally with remote(s):[0K[?25l
-  origin        git@github.com:likelet/likelet.github.io.git[0K
-[0K[?25hIf you want to reuse this local git directory instead of cloning again from[0K[?25l
-  git@github.com:likelet/likelet.github.io.git[0K
-use the '--force' option. If the local git directory is not the correct repo[0K
-or you are unsure what this means choose another name with the '--name' option.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ h[0K[?25hu[0Kt[0Ko[0K[8G[?25l$ huto s[0K[?25he[0Krt[0K[?25l$ huto ser[0K[?25hv[0Ke[0Kf[0K[?25l$ huto serve[0K[?25hr[0K[?25l
-bash: huto: command not found[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ huto server[0K[?25h[13G[12G[11G[10G[9G[8G[7G[6G[?25l$ huo server[0K[5G[?25h[?25l$ hugo server[0K[6G[?25h[?25l
-[0K[?25hBuilding sites …[0K[19G[?25l
-                   | EN[0K
-+------------------+----+[0K
-  Pages            | 80[0K
-  Paginator pages  |  2[0K
-  Non-page files   | 29[0K
-  Static files     | 12[0K
-  Processed images |  9[0K
-  Aliases          | 17[0K
-  Sitemaps         |  1[0K
-  Cleaned          |  0[0K
-[0K
-Total in 175 ms[0K
-Watching for changes in E:\project\R\likelet.github.io\{content,data,layouts,static,themes}[0K
-Watching for config changes in E:\project\R\likelet.github.io\config.toml[0K
-Serving pages from memory[0K
-Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender[0K
-Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)[0K
-Press Ctrl+C to stop[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ hugo server[0K[?25h[?25l$ huto server[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
-[0K[?25h'public' already exists and is not a valid git repo[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l$ hugo server[0K[?25h[?25l$ huto server[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
-[0K[?25hA git directory for 'public' is found locally with remote(s):[0K[?25l
-[0K[?25h  origin        git@github.com:likelet/likelet.github.io.git[0K[?25l
-[0K[?25hIf you want to reuse this local git directory instead of cloning again from[0K[?25l
-  git@github.com:likelet/likelet.github.io.git[0K
-use the '--force' option. If the local git directory is not the correct repo[0K
-or you are unsure what this means choose another name with the '--name' option.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[6G[5G[?25l$ git[0K[?25h[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote r[0K[?25he[0Km[0Ko[0Kv[0Ke[0K[21G[?25l
-[0K[?25husage: git remote remove <name>[0K[?25l
-[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote remove[0K[21G[?25h[?25l$ git remote remove o[0K[?25hr[0Ki[0Kg[0Kn[0K[27G[?25l$ git remote remove orign m[0K[?25ha[0Ks[0Kk[0Kt[0Ke[0Kr[0K[?25l$ git remote remove orign maskte[0K[?25h[?25l$ git remote remove orign maskt[0K[?25h[?25l$ git remote remove orign mask[0K[?25h[?25l$ git remote remove orign mas[0K[?25ht[0K[?25l$ git remote remove orign mas[0K[?25ht[0Ke[0Kr[0K[?25l
-[0K[?25husage: git remote remove <name>[0K[?25l
-[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote remove[0K[?25h[21G[?25l$ git remote remove orign master[0K[?25h[32G[31G[30G[29G[28G[27G[26G[25G[26G[27G[28G[29G[30G[31G[32G[33G[?25l$ git remote remove orign maste[0K[?25h[?25l$ git remote remove orign mast[0K[?25h[?25l$ git remote remove orign mas[0K[?25h[?25l$ git remote remove orign ma[0K[?25h[?25l$ git remote remove orign m[0K[?25h[?25l$ git remote remove orign[0K[27G[?25h[26G[?25l$ git remote remove orig[0K[?25h[?25l$ git remote remove ori[0K[?25h[?25l$ git remote remove or[0K[?25h[?25l$ git remote remove o[0K[?25h[?25l$ git remote remove[0K[21G[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l
-fatal: No such remote: https://github.com/likelet/HUGO_webcode.git[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[6G[?25l$ ls -[0K[?25ha[0Kl[0K[?25l
-total 34[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 10:56 .[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 03:25 ..[0K
--rw-r--r-- 1 Administrator 197121   567 Oct 21 03:14 .Rhistory[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 03:02 .Rproj.user[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 10:59 .git[0K
--rw-r--r-- 1 Administrator 197121    46 Oct 21 02:55 .gitignore[0K
--rw-r--r-- 1 Administrator 197121   105 Oct 21 10:32 .gitmodules[0K
--rw-r--r-- 1 Administrator 197121    16 Oct 21 10:37 README.md[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 01:34 archetypes[0K
--rw-r--r-- 1 Administrator 197121 11318 Oct 21 03:19 config.toml[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 01:34 content[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 01:34 data[0K
--rw-r--r-- 1 Administrator 197121    42 Oct 21 01:34 index.Rmd[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 01:34 layouts[0K
--rw-r--r-- 1 Administrator 197121   240 Oct 21 09:56 likelet.github.io.Rproj[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 01:35 resources[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 01:35 static[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 01:34 themes[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25hg[0Ko[0K[?25l$ cd .g[0K[?25hi[0Kt[0K[?25l
-[0K[?25h]0;:/e/project/R/likelet.github.io/.git[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io/.git[0;36m (GIT_DIR!)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-COMMIT_EDITMSG  FETCH_HEAD  HEAD  ORIG_HEAD  config  description  hooks  index  info  logs  modules  objects  packed-refs  refs[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io/.git[0;36m (GIT_DIR!)[0m[0K
-$[0K[3G[?25h[?25l$ m[0K[?25ho[0Kr[0Ke[0K[8G[?25l$ more c[0K[?25ho[0Kn[0Kfig[0K[15G[?25l
-[0K[?25hbash: more: command not found[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io/.git[0;36m (GIT_DIR!)[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25h.[0K[?25l
-[0K[?25h]0;:/e/project/R/likelet.github.io[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-[0K[?25hREADME.md  archetypes  config.toml  content  data  index.Rmd  layouts  likelet.github.io.Rproj  resources  static  themes[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote -v[0K[?25h[?25l
-[0K[?25horigin  https://github.com/likelet/HUGO_webcode.git (fetch)[0K[?25l
-origin  https://github.com/likelet/HUGO_webcode.git (push)[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote -v[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ more config[0K[15G[?25h[?25l$ ls[0K[?25h[?25l$ cd .git[0K[?25h[?25l$ ls -al[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_webcode.gi[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_webcode.g[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_webcode.[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_webcode[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_webcod[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_webco[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_webc[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_web[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_we[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_w[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO_[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUGO[0K[?25h[?25l$ git remote remove https://github.com/likelet/HUG[0K[?25h[?25l$ git remote remove https://github.com/likelet/HU[0K[?25h[?25l$ git remote remove https://github.com/likelet/H[0K[?25h[?25l$ git remote remove https://github.com/likelet/[0K[?25h[?25l$ git remote remove https://github.com/likelet[0K[?25h[?25l$ git remote remove https://github.com/likele[0K[?25h[?25l$ git remote remove https://github.com/likel[0K[?25h[?25l$ git remote remove https://github.com/like[0K[?25h[?25l$ git remote remove https://github.com/lik[0K[?25h[?25l$ git remote remove https://github.com/li[0K[?25h[?25l$ git remote remove https://github.com/l[0K[?25h[?25l$ git remote remove https://github.com/[0K[?25h[?25l$ git remote remove https://github.com[0K[?25h[?25l$ git remote remove https://github.co[0K[?25h[?25l$ git remote remove https://github.c[0K[?25h[?25l$ git remote remove https://github.[0K[?25h[?25l$ git remote remove https://github[0K[?25h[?25l$ git remote remove https://githu[0K[?25h[?25l$ git remote remove https://gith[0K[?25h[?25l$ git remote remove https://git[0K[?25h[?25l$ git remote remove https://gi[0K[?25h[?25l$ git remote remove https://g[0K[?25h[?25l$ git remote remove https://[0K[?25h[?25l$ git remote remove https:/[0K[?25h[?25l$ git remote remove https:[0K[?25h[?25l$ git remote remove https[0K[?25h[?25l$ git remote remove http[0K[?25h[?25l$ git remote remove htt[0K[?25h[?25l$ git remote remove ht[0K[?25h[?25l$ git remote remove h[0K[?25h[?25l$ git remote remove[0K[21G[?25h[?25l
-usage: git remote remove <name>[0K
-[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote remove[0K[21G[?25h[?25l$ git remote remove o[0K[?25hr[0Ki[0Kn[0Kg[0K[?25l$ git remote remove orin[0K[?25h[?25l$ git remote remove ori[0K[?25hg[0Ki[0Kn[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote remove origin[0K[?25h[26G[27G[?25l
-fatal: No such remote: origin[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote remove origin[0K[?25h[?25l$ git remote remove[0K[21G[?25h[?25l$ git remote -v[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ more config[0K[15G[?25h[?25l$ ls[0K[?25h[?25l$ more config[0K[15G[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ git remote -v[0K[?25h[?25l$ git remote remove[0K[21G[?25h[?25l$ git remote remove origin[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote a[0K[?25hd[0K[17G[16G[?25l$ git remote add[0K[?25h[18G[?25l$ git remote add git remote -v[0K[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote remove origin[0K[?25h[?25l$ git remote remove origi[0K[?25h[?25l$ git remote remove orig[0K[?25h[?25l$ git remote remove ori[0K[?25h[?25l$ git remote remove or[0K[?25h[?25l$ git remote remove o[0K[?25h[?25l$ git remote remove[0K[21G[?25h[20G[?25l$ git remote remov[0K[?25h[?25l$ git remote remo[0K[?25h[?25l$ git remote rem[0K[?25h[?25l$ git remote re[0K[?25h[?25l$ git remote r[0K[?25h[?25l$ git remote[0K[14G[?25h[?25l$ git remote a[0K[?25hd[0Kd[0K[18G[?25l$ git remote add g[0K[?25ho[0K[?25l$ git remote add g[0K[?25h[?25l$ git remote add[0K[18G[?25h[?25l$ git remote add https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l
-[0K[?25husage: git remote add [<options>] <name> <url>[0K[?25l
-[0K
-    -f, --fetch           fetch the remote branches[0K
-    --tags                import all tags and associated objects when fetching[0K
-                          or do not fetch any tag at all (--no-tags)[0K
-    -t, --track <branch>  branch(es) to track[0K
-    -m, --master <branch>[0K
-                          master branch[0K
-    --mirror[=<push|fetch>][0K
-                          set up remote as a mirror to push to or fetch from[0K
-[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote add https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$[0K[3G[?25h[?25l$ git remote add https://github.com/likelet/HUGO_webcode.git[0K[?25h[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[50G[49G[48G[47G[46G[45G[44G[43G[42G[41G[40G[39G[38G[37G[36G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[25G[24G[23G[22G[21G[20G[19G[18G[17G[16G[17G[18G[?25l$ git remote add ohttps://github.com/likelet/HUGO_webcode.git[0K[19G[?25h[?25l$ git remote add orhttps://github.com/likelet/HUGO_webcode.git[0K[20G[?25h[?25l$ git remote add orihttps://github.com/likelet/HUGO_webcode.git[0K[21G[?25h[?25l$ git remote add orighttps://github.com/likelet/HUGO_webcode.git[0K[22G[?25h[?25l$ git remote add orignhttps://github.com/likelet/HUGO_webcode.git[0K[23G[?25h[?25l$ git remote add orign https://github.com/likelet/HUGO_webcode.git[0K[24G[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25h[?25l$ git add[0K[11G[?25h[?25l$ git add -[0K[?25hA[0K[14G[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[12G[?25l$ git pull o[0K[?25hr[0Ki[0Kg[0Kn[0K[18G[17G[?25l$ git pull orig[0K[?25hi[0Kn[0K[19G[?25l$ git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[26G[?25l
-[0K[?25hfatal: 'origin' does not appear to be a git repository[0K[?25l
-fatal: Could not read from remote repository.[0K
-[0K
-Please make sure you have the correct access rights[0K
-and the repository exists.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git add -A[0K[14G[?25h[?25l$ git remote add orign https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git remote add https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git remote remove origin[0K[?25h[?25l$ git remote remove[0K[21G[?25h[?25l$ git remote -v[0K[?25h[?25l
-[0K[?25horign   https://github.com/likelet/HUGO_webcode.git (fetch)[0K[?25l
-orign   https://github.com/likelet/HUGO_webcode.git (push)[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote -v[0K[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git remote -v[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0K,[0K[?25l$ git re[0K[?25h,[0Kp[0Kt[0Ke[0K[14G[13G[?25l$ git re,pt[0K[?25h[?25l$ git re,p[0K[?25h[?25l$ git re,[0K[?25h[?25l$ git re[0K[?25hm[0Ko[0Kt[0Ke[0K[14G[13G[?25l$ git remot[0K[?25h[?25l$ git remo[0K[?25h[?25l$ git rem[0K[?25h[?25l$ git re[0K[?25h[?25l$ git r[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote r[0K[?25he[0Km[0Ko[0Kv[0Ke[0K[21G[?25l$ git remote remove o[0K[?25hr[0Ki[0Kg[0Kn[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote remove orign[0K[?25h[?25l$ git remote -v[0K[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git add -A[0K[14G[?25h[?25l$ git remote add orign https://github.com/likelet/HUGO_webcode.git[0K[?25h[66G[65G[64G[63G[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[50G[49G[48G[47G[46G[45G[44G[43G[42G[41G[40G[39G[38G[37G[36G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[25G[24G[23G[22G[?25l$ git remote add origin https://github.com/likelet/HUGO_webcode.git[0K[23G[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote add origin https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git remote remove orign[0K[?25h[?25l$ git remote -v[0K[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git add -A[0K[14G[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git add -A[0K[14G[?25h[?25l$ git remote add origin https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git remote remove orign[0K[?25h[?25l$ git remote -v[0K[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git add -A[0K[14G[?25h[?25l$ git remote add orign https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git remote add https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git remote add orign https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git add -A[0K[14G[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git remote -v[0K[?25h[?25l$ git remote remove orign[0K[?25h[?25l$ git remote add origin https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git add -A[0K[14G[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Kg[0Ki[0Kn[0K[18G[?25l$ git push orgin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[25G[?25l
-[0K[?25hfatal: 'orgin' does not appear to be a git repository[0K[?25l
-fatal: Could not read from remote repository.[0K
-[0K
-Please make sure you have the correct access rights[0K
-and the repository exists.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push orgin master[0K[25G[?25h[24G[23G[22G[21G[20G[19G[18G[17G[16G[15G[14G[13G[12G[13G[14G[?25l$ git push origin master[0K[15G[?25h[?25l
-[0K[?25hEverything up-to-date[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:[0K[?25hl[0Ki[0Kk[0Ke[0Kl[0Ke[0Kt[0K/[0Kl[0Ki[0Kk[0Ke[0Kl[0Ke[0Kt[0K.[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Ki[0Ko[0K.[0Kg[0Ki[0Kt[0K[76G[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git p[0K[?25hu[0Kb[0Kl[0Ki[0Kc[0K[?25l
-[0K[?25hA git directory for 'public' is found locally with remote(s):[0K[?25l
-[0K[?25h  origin        git@github.com:likelet/likelet.github.io.git[0K[?25l
-[0K[?25hIf you want to reuse this local git directory instead of cloning again from[0K[?25l
-  git@github.com:likelet/likelet.github.io.git[0K
-use the '--force' option. If the local git directory is not the correct repo[0K
-or you are unsure what this means choose another name with the '--name' option.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[81G[80G[79G[78G[77G[76G[75G[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[50G[49G[48G[47G[46G[45G[44G[43G[42G[41G[40G[39G[38G[37G[36G[35G[34G[33G[32G[31G[?25l$ git submodule add -b master -git@github.com:likelet/likelet.github.io.git public[0K[32G[?25h[?25l$ git submodule add -b master -fgit@github.com:likelet/likelet.github.io.git public[0K[33G[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git public[0K[34G[?25h[?25l
-[0K[?25hReactivating local git directory for submodule 'public'.[0K[?25l
-[0K[?25hfatal: 'origin/master' is not a commit and a branch 'master' cannot be created from it[0K[?25l
-[0K[?25hUnable to checkout submodule 'public'[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l$ git push origin master[0K[26G[?25h[?25l$ git push orgin master[0K[25G[?25h[?25l$ git push origin master[0K[26G[?25h[?25l
-[0K[?25hEverything up-to-date[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push origin master[0K[26G[?25h[?25l$[0K[3G[?25h[?25l$ git push origin master[0K[26G[?25h[25G[24G[23G[22G[21G[20G[19G[18G[17G[16G[15G[14G[13G[12G[11G[?25l$ git pus origin master[0K[10G[?25h[?25l$ git pu origin master[0K[9G[?25h[?25l$ git pul origin master[0K[10G[?25h[?25l$ git pull origin master[0K[11G[?25h[?25l
-[0K[?25hFrom https://github.com/likelet/HUGO_webcode[0K[?25l
- * branch            master     -> FETCH_HEAD[0K
-[0K[?25hAlready up to date.[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git push origin master[0K[26G[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git publi[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git publ[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git pub[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git pu[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git p[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git[0K[79G[?25h[78G[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.gi[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.g[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.i[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.githu[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.gith[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.git[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.gi[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.g[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likele[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likel[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/like[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/lik[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/li[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/l[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likelet[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likele[0K[?25h[?25l$ git submodule add -b master -f git@github.com:likel[0K[?25h[?25l$ git submodule add -b master -f git@github.com:like[0K[?25h[?25l$ git submodule add -b master -f git@github.com:lik[0K[?25h[?25l$ git submodule add -b master -f git@github.com:li[0K[?25h[?25l$ git submodule add -b master -f git@github.com:l[0K[?25h[?25l$ git submodule add -b master -f git@github.com:[0K[?25h[?25l$ git submodule add -b master -f git@github.com[0K[?25h[?25l$ git submodule add -b master -f git@github.co[0K[?25h[?25l$ git submodule add -b master -f git@github.c[0K[?25h[?25l$ git submodule add -b master -f git@github.[0K[?25h[?25l$ git submodule add -b master -f git@github[0K[?25h[?25l$ git submodule add -b master -f git@githu[0K[?25h[?25l$ git submodule add -b master -f git@gith[0K[?25h[?25l$ git submodule add -b master -f git@git[0K[?25h[?25l$ git submodule add -b master -f git@gi[0K[?25h[?25l$ git submodule add -b master -f git@g[0K[?25h[?25l$ git submodule add -b master -f git@[0K[?25h[?25l$ git submodule add -b master -f git[0K[?25h[?25l$ git submodule add -b master -f gi[0K[?25h[?25l$ git submodule add -b master -f g[0K[?25h[?25l$ git submodule add -b master -f[0K[34G[?25h[33G[?25l$ git submodule add -b master -[0K[?25h[?25l$ git submodule add -b master[0K[31G[?25h[30G[?25l$ git submodule add -b maste[0K[?25h[?25l$ git submodule add -b mast[0K[?25h[?25l$ git submodule add -b mas[0K[?25h[?25l$ git submodule add -b ma[0K[?25h[?25l$ git submodule add -b m[0K[?25h[?25l$ git submodule add -b[0K[24G[?25h[23G[?25l$ git submodule add -[0K[?25h[?25l$ git submodule add[0K[21G[?25h[20G[?25l
-[0K[?25husage: git submodule [--quiet] add [-b <branch>] [-f|--force] [--name <name>] [--reference <repository>] [--] <repository> [<path[0K>[?25l
-][0K
-   or: git submodule [--quiet] status [--cached] [--recursive] [--] [<path>...][0K
-   or: git submodule [--quiet] init [--] [<path>...][0K
-   or: git submodule [--quiet] deinit [-f|--force] (--all| [--] <path>...)[0K
-   or: git submodule [--quiet] update [--init] [--remote] [-N|--no-fetch] [-f|--force] [--checkout|--merge|--rebase] [--[no-]reco[0Km
-mend-shallow] [--reference <repository>] [--recursive] [--] [<path>...][0K
-   or: git submodule [--quiet] summary [--cached|--files] [--summary-limit <n>] [commit] [--] [<path>...][0K
-   or: git submodule [--quiet] foreach [--recursive] <command>[0K
-   or: git submodule [--quiet] sync [--recursive] [--] [<path>...][0K
-   or: git submodule [--quiet] absorbgitdirs [--] [<path>...][0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule add[0K[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git push origin master[0K[26G[?25h[?25l$ git submodule add -b master -f git@github.com:likelet/likelet.github.io.git public[0K[?25h[84G[83G[82G[81G[80G[79G[78G[77G[76G[75G[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[50G[49G[48G[47G[46G[45G[44G[43G[42G[41G[40G[39G[38G[37G[36G[35G[34G[?25l$ git submodule add -b master -fgit@github.com:likelet/likelet.github.io.git public[0K[33G[?25h[?25l$ git submodule add -b master -git@github.com:likelet/likelet.github.io.git public[0K[32G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[32G[?25h[31G[32G[33G[34G[35G[36G[37G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[47G[46G[82G[81G[80G[79G[78G[77G[76G[75G[74G[73G[74G[75G[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.gi public[0K[74G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.g public[0K[73G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io. public[0K[72G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io public[0K[71G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.i public[0K[70G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github. public[0K[69G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github public[0K[69G[?25h[68G[?25l$ git submodule add -b master git@github.com:likelet/likelet.gith public[0K[66G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.git public[0K[65G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.gi public[0K[64G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.g public[0K[63G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet. public[0K[62G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet public[0K[61G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likele public[0K[60G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likel public[0K[59G[?25h[?25l$ git submodule add -b master git@github.com:likelet/like public[0K[58G[?25h[?25l$ git submodule add -b master git@github.com:likelet/lik public[0K[57G[?25h[?25l$ git submodule add -b master git@github.com:likelet/li public[0K[56G[?25h[?25l$ git submodule add -b master git@github.com:likelet/l public[0K[55G[?25h[?25l$ git submodule add -b master git@github.com:likelet/ public[0K[54G[?25h[?25l$ git submodule add -b master git@github.com:likelet public[0K[53G[?25h[?25l$ git submodule add -b master git@github.com:likele public[0K[52G[?25h[?25l$ git submodule add -b master git@github.com:likel public[0K[52G[?25h[51G[?25l$ git submodule add -b master git@github.com:lik public[0K[50G[?25h[49G[?25l$ git submodule add -b master git@github.com:li public[0K[48G[?25h[?25l$ git submodule add -b master git@github.com:l public[0K[47G[?25h[?25l$ git submodule add -b master git@github.com: public[0K[46G[?25h[?25l$ git submodule add -b master git@github.com public[0K[45G[?25h[?25l$ git submodule add -b master git@github.co public[0K[44G[?25h[?25l$ git submodule add -b master git@github.c public[0K[43G[?25h[?25l$ git submodule add -b master git@github. public[0K[42G[?25h[?25l$ git submodule add -b master git@github public[0K[41G[?25h[?25l$ git submodule add -b master git@githu public[0K[40G[?25h[?25l$ git submodule add -b master git@gith public[0K[39G[?25h[?25l$ git submodule add -b master git@git public[0K[38G[?25h[?25l$ git submodule add -b master git@gi public[0K[37G[?25h[?25l$ git submodule add -b master git@g public[0K[36G[?25h[?25l$ git submodule add -b master git@ public[0K[35G[?25h[?25l$ git submodule add -b master git public[0K[34G[?25h[?25l$ git submodule add -b master gi public[0K[33G[?25h[?25l$ git submodule add -b master g public[0K[32G[?25h[?25l$ git submodule add -b master  public[0K[31G[?25h[?25l$ git submodule add -b master https://github.com/likelet/likelet.github.io.git public[0K[79G[?25h[?25l
-[0K[?25hAdding existing repo at 'public' to the index[0K[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .gitmodules.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0m[0K[?25h[0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K[?25l
-$[0K[3G[?25h[0m[0K]0;:/e/project/R/likelet.github.io[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-[?25l$ git commit -m[0K[17G[?25h[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "r"[0K[19G[?25h[?25l$ git commit -m "re"[0K[20G[?25h[?25l$ git commit -m "reb"[0K[21G[?25h[?25l$ git commit -m "rebu"[0K[22G[?25h[?25l$ git commit -m "rebui"[0K[23G[?25h[?25l$ git commit -m "rebuil"[0K[24G[?25h[?25l$ git commit -m "rebuild"[0K[25G[?25h[?25l$ git commit -m "rebuildi"[0K[26G[?25h[?25l$ git commit -m "rebuildin"[0K[27G[?25h[?25l$ git commit -m "rebuilding"[0K[28G[?25h[?25l$ git commit -m "rebuilding "[0K[29G[?25h[?25l$ git commit -m "rebuilding s"[0K[30G[?25h[?25l$ git commit -m "rebuilding si"[0K[31G[?25h[?25l$ git commit -m "rebuilding sit"[0K[32G[?25h[?25l$ git commit -m "rebuilding site"[0K[33G[?25h[?25l$ git commit -m "rebuilding site "[0K[34G[?25h[?25l$ git commit -m "rebuilding site `"[0K[35G[?25h[?25l$ git commit -m "rebuilding site ``"[0K[36G[?25h[35G[?25l$ git commit -m "rebuilding site `d`"[0K[36G[?25h[?25l$ git commit -m "rebuilding site `da`"[0K[37G[?25h[?25l$ git commit -m "rebuilding site `dat`"[0K[38G[?25h[?25l$ git commit -m "rebuilding site `data`"[0K[39G[?25h[?25l
-bash: data: command not found[0K
-[0K[?25hfatal: Unable to create 'E:/project/R/likelet.github.io/.git/index.lock': File exists.[0K[?25l
-[0K
-Another git process seems to be running in this repository, e.g.[0K
-an editor opened by 'git commit'. Please make sure all processes[0K
-are terminated then try again. If it still fails, a git process[0K
-may have crashed in this repository earlier:[0K
-remove the file manually to continue.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "rebuilding site `data`"[0K[?25h[40G[39G[40G[?25l$ git commit -m "rebuilding site `data"[0K[39G[?25h[?25l$ git commit -m "rebuilding site `dat"[0K[38G[?25h[?25l$ git commit -m "rebuilding site `da"[0K[37G[?25h[?25l$ git commit -m "rebuilding site `d"[0K[36G[?25h[?25l$ git commit -m "rebuilding site `"[0K[35G[?25h[?25l$ git commit -m "rebuilding site "[0K[34G[?25h[?25l
-[0K[?25hfatal: Unable to create 'E:/project/R/likelet.github.io/.git/index.lock': File exists.[0K[?25l
-[0K
-Another git process seems to be running in this repository, e.g.[0K
-an editor opened by 'git commit'. Please make sure all processes[0K
-are terminated then try again. If it still fails, a git process[0K
-may have crashed in this repository earlier:[0K
-remove the file manually to continue.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "rebuilding site "[0K[?25h[?25l
-[0K[?25hfatal: Unable to create 'E:/project/R/likelet.github.io/.git/index.lock': File exists.[0K[?25l
-[0K
-Another git process seems to be running in this repository, e.g.[0K
-an editor opened by 'git commit'. Please make sure all processes[0K
-are terminated then try again. If it still fails, a git process[0K
-may have crashed in this repository earlier:[0K
-remove the file manually to continue.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ t[0K[?25ho[0Kp[0K[?25l
-bash: top: command not found[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ t[0K[?25ho[0Kp[0K[?25l
-bash: top: command not found[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[?25l$ gi[0K[?25h[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ top[0K[?25h[?25l$ git commit -m "rebuilding site "[0K[?25h[?25l$ top[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
-[0K[?25hfatal: Unable to create 'E:/project/R/likelet.github.io/.git/index.lock': File exists.[0K[?25l
-[0K
-Another git process seems to be running in this repository, e.g.[0K
-an editor opened by 'git commit'. Please make sure all processes[0K
-are terminated then try again. If it still fails, a git process[0K
-may have crashed in this repository earlier:[0K
-remove the file manually to continue.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-README.md  archetypes  config.toml  content  data  index.Rmd  layouts  likelet.github.io.Rproj  public  resources  static  themes[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[5G[?25l$ c[0K[?25h[?25l$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25h.[0K[?25l
-[0K[?25h]0;:/e/project/R[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-CorAnalyzer  CrossICC  InteractiveVenny  PlotAppForTBtools  Venn  likelet  likelet.github.io  mseasy[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd L[0K[?25h[?25l$ cd[0K[6G[?25h[?25l$ cd l[0K[?25hi[0Ko[0K[?25l$ cd li[0K[?25hk[0Ke[0Klet[0K.[0K[?25l$ cd likelet[0K[?25h.[0Kgithub.io/[0K[?25l
-[0K[?25h]0;:/e/project/R/likelet.github.io[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-README.md  archetypes  config.toml  content  data  index.Rmd  layouts  likelet.github.io.Rproj  public  resources  static  themes[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25h[?25l$ cd[0K[6G[?25h[5G[?25l$ c[0K[?25hc[0Kd[0K[7G[6G[?25l$ cc[0K[?25h[?25l$ c[0K[?25h[?25l$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd l[0K[?25hi[0Ko[0K[?25l$ cd li[0K[?25hk[0Ke[0Klet.github.io.Rproj[0K[30G[?25l
-bash: cd: likelet.github.io.Rproj: Not a directory[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25h.[0K[?25l
-[0K[?25h]0;:/e/project/R[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-CorAnalyzer  CrossICC  InteractiveVenny  PlotAppForTBtools  Venn  likelet  likelet.github.io  mseasy[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd l[0K[?25hi[0Kk[0Ke[0Klet[0K[?25l
-[0K[?25h]0;:/e/project/R/likelet[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25h.[0K[?25l
-[0K[?25h]0;:/e/project/R[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-CorAnalyzer  CrossICC  InteractiveVenny  PlotAppForTBtools  Venn  likelet  likelet.github.io  mseasy[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd l[0K[?25hikelet[0K.[0Kgithub.io/[0K[?25l
-[0K[?25h]0;:/e/project/R/likelet.github.io[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-README.md  archetypes  config.toml  content  data  index.Rmd  layouts  likelet.github.io.Rproj  public  resources  static  themes[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25hc[0K[?25l$ cd .[0K[?25hg[0Kio[0K[?25l$ cd .gi[0K[?25ht[0K[?25l
-[0K[?25h]0;:/e/project/R/likelet.github.io/.git[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io/.git[0;36m (GIT_DIR!)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[6G[?25l$ ls -[0K[?25ha[0Kl[0K[?25l
-total 115[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 11:08 .[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 11:10 ..[0K
--rw-r--r-- 1 Administrator 197121    15 Oct 21 10:46 COMMIT_EDITMSG[0K
--rw-r--r-- 1 Administrator 197121   101 Oct 21 11:04 FETCH_HEAD[0K
--rw-r--r-- 1 Administrator 197121    23 Oct 21 02:35 HEAD[0K
--rw-r--r-- 1 Administrator 197121    41 Oct 21 11:04 ORIG_HEAD[0K
--rw-r--r-- 1 Administrator 197121   336 Oct 21 11:06 config[0K
--rw-r--r-- 1 Administrator 197121    73 Oct 21 02:35 description[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 02:35 hooks[0K
--rw-r--r-- 1 Administrator 197121 53567 Oct 21 11:08 index[0K
--rw-r--r-- 1 Administrator 197121     0 Oct 21 11:08 index.lock[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 02:35 info[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 02:36 logs[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 10:32 modules[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 10:40 objects[0K
--rw-r--r-- 1 Administrator 197121    46 Oct 21 10:59 packed-refs[0K
-drwxr-xr-x 1 Administrator 197121     0 Oct 21 03:05 refs[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io/.git[0;36m (GIT_DIR!)[0m[0K
-$[0K[3G[?25h[?25l$ r[0K[?25hm[0K[6G[?25l$ rm -[0K[?25hr[0Kf[0K[10G[?25l$ rm -rf i[0K[?25hn[0Kd[0Kex[0K.[0Klock[0K[21G[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io/.git[0;36m (GIT_DIR!)[0m[0K
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25h.[0K[?25l
-[0K[?25h]0;:/e/project/R/likelet.github.io[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
-[0K[?25hREADME.md  archetypes  config.toml  content  data  index.Rmd  layouts  likelet.github.io.Rproj  public  resources  static  themes[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0m[0K[?25h[0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K[?25l
-$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25h.[0K[?25l$ cd .[0K[?25h[?25l$ cd[0K[6G[?25h[5G[?25l$ c[0K[?25h[?25l$[0K[3G[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ rm -rf index.lock[0K[21G[?25h[?25l$ ls -al[0K[?25h[?25l$ cd .git[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd likelet.github.io/[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd likelet[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ cd likelet.github.io.Rproj[0K[30G[?25h[?25l$ ls[0K[?25h[?25l$ cd likelet.github.io/[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd likelet.github.io/[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd likelet.github.io.Rproj[0K[30G[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd likelet[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd likelet.github.io/[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd .git[0K[?25h[?25l$ ls -al[0K[?25h[?25l$ rm -rf index.lock[0K[21G[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in public/404.html.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/install/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/install/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/r/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/categories/r/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/home/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/js/hugo-academic.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/js/search.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/js/vendor/reveal.js/plugin/notes/notes.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/js/vendor/reveal.js/plugin/notes/notes.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/post/2018-07-08-r-rmarkdown/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/post/2018-07-20-r-rmarkdown/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/post/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/post/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/project/external-project/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/project/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/project/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/project/internal-project/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/bai2016chemotherapy/bai2016chemotherapy.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/bai2016chemotherapy/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/feng2017firmiana/feng2017firmiana.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/feng2017firmiana/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in public/publication/index.xml.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/kan2017functional/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/kan2017functional/kan2017functional.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/li2016clinical/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/li2016clinical/li2016clinical.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/li2016development/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/li2016development/li2016development.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/li2016mutation/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/li2016mutation/li2016mutation.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/li2017bilateral/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/li2017bilateral/li2017bilateral.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/li2017more/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/li2017more/li2017more.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/liu2015ibs/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/liu2015ibs/liu2015ibs.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/liu2016conformation/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/liu2016conformation/liu2016conformation.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/liu2016htert/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/liu2016htert/liu2016htert.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/liu2018dysregulation/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/liu2018dysregulation/liu2018dysregulation.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/lu2018me1/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/lu2018me1/lu2018me1.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/shi2015systematic/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/shi2015systematic/shi2015systematic.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/wang2018cpt1a/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/wang2018cpt1a/wang2018cpt1a.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/wang2018genomic/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/wang2018genomic/wang2018genomic.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/xie2016gps/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/xie2016gps/xie2016gps.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/xie2017virusmap/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/xie2017virusmap/xie2017virusmap.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/xu2017circulating/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/xu2017circulating/xu2017circulating.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/ye2018whole/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/ye2018whole/ye2018whole.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zeng2018microrna/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zeng2018microrna/zeng2018microrna.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zhang2017expression/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zhang2017expression/zhang2017expression.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zhao2014gps/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zhao2014gps/zhao2014gps.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zhao2018idea/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zhao2018idea/zhao2018idea.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zhao2018lncpipe/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zhao2018lncpipe/zhao2018lncpipe.bib.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication/zuo2018pan/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in public/publication/zuo2018pan/zuo2018pan.bib.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication_types/0/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication_types/0/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication_types/2/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication_types/2/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication_types/2/page/2/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication_types/2/page/3/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication_types/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/publication_types/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/site.webmanifest.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/sitemap.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/slides/example-slides/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/slides/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/styles.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/bed/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/bed/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/data-format/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/data-format/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/deep-learning/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/deep-learning/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/demo/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/demo/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/processing/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/processing/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/r-markdown/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/r-markdown/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/regression/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/regression/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/setting/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tags/setting/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/talk/example/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/talk/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/talk/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tutorial/example/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tutorial/index.html.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in public/tutorial/index.xml.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[26G[?25l
-[0K[?25hEverything up-to-date[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0K[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25ho[0Km[0Ki[0Kt[0K[13G[12G[?25l$ git comi[0K[?25h[?25l$ git com[0K[?25hm[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "a"[0K[19G[?25h[?25l$ git commit -m "ad"[0K[20G[?25h[?25l$ git commit -m "add"[0K[21G[?25h[?25l$ git commit -m "add "[0K[22G[?25h[?25l$ git commit -m "add p"[0K[23G[?25h[?25l$ git commit -m "add pu"[0K[24G[?25h[?25l$ git commit -m "add pub"[0K[25G[?25h[?25l$ git commit -m "add publ"[0K[26G[?25h[?25l$ git commit -m "add publiu"[0K[28G[?25h[?25l$ git commit -m "add publiuc"[0K[29G[?25h[?25l$ git commit -m "add publiu"[0K[28G[?25h[?25l$ git commit -m "add publi"[0K[27G[?25h[?25l$ git commit -m "add public"[0K[28G[?25h[?25l
-[0K[?25h[master cb5eb53] add public[0K[?25l
- 153 files changed, 43345 insertions(+), 1066 deletions(-)[0K
- create mode 100644 public/404.html[0K
- create mode 100644 public/categories/index.html[0K
- create mode 100644 public/categories/index.xml[0K
- create mode 100644 public/categories/install/index.html[0K
- create mode 100644 public/categories/install/index.xml[0K
- create mode 100644 public/categories/install/page/1/index.html[0K
- create mode 100644 public/categories/page/1/index.html[0K
- create mode 100644 public/categories/r/index.html[0K
- create mode 100644 public/categories/r/index.xml[0K
- create mode 100644 public/categories/r/page/1/index.html[0K
- create mode 100644 public/css/reveal_custom.min.css[0K
- create mode 100644 public/home/index.xml[0K
- create mode 100644 public/img/boards.jpg[0K
- create mode 100644 public/img/headers/bubbles-wide.jpg[0K
- create mode 100644 public/img/icon-192.png[0K
- create mode 100644 public/img/icon.png[0K
- create mode 100644 public/img/photo.jpg[0K
- create mode 100644 public/img/portrait.jpg[0K
- create mode 100644 public/index.html[0K
- create mode 100644 public/index.json[0K
- create mode 100644 public/index.xml[0K
- create mode 100644 public/js/hugo-academic.js[0K
- create mode 100644 public/js/search.js[0K
- create mode 100644 public/js/vendor/reveal.js/plugin/notes/notes.html[0K
- create mode 100644 public/js/vendor/reveal.js/plugin/notes/notes.js[0K
- create mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[0K
- create mode 100644 public/post/2018-07-08-r-rmarkdown/index.html[0K
- create mode 100644 public/post/2018-07-20-r-rmarkdown/index.html[0K
- create mode 100644 public/post/index.html[0K
- create mode 100644 public/post/index.xml[0K
- create mode 100644 public/post/page/1/index.html[0K
- create mode 100644 public/project/external-project/featured.jpg[0K
- create mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_1600x400_fill_q90_box_smar[0Kt
-1.jpg[0K
- create mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_550x550_fill_q90_box_smart[0K1
-.jpg[0K
- create mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_680x500_fill_q90_box_smart[0K1
-.jpg[0K
- create mode 100644 public/project/external-project/index.html[0K
- create mode 100644 public/project/index.html[0K
- create mode 100644 public/project/index.xml[0K
- create mode 100644 public/project/internal-project/featured.jpg[0K
- create mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_1600x400_fill_q90_box_smar[0Kt
-1.jpg[0K
- create mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x550_fill_q90_box_smart[0K1
-.jpg[0K
- create mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_680x500_fill_q90_box_smart[0K1
-.jpg[0K
- create mode 100644 public/project/internal-project/index.html[0K
- create mode 100644 public/project/page/1/index.html[0K
- create mode 100644 public/publication/bai2016chemotherapy/bai2016chemotherapy.bib[0K
- create mode 100644 public/publication/bai2016chemotherapy/index.html[0K
- create mode 100644 public/publication/feng2017firmiana/feng2017firmiana.bib[0K
- create mode 100644 public/publication/feng2017firmiana/index.html[0K
- create mode 100644 public/publication/index.html[0K
- create mode 100644 public/publication/index.xml[0K
- create mode 100644 public/publication/kan2017functional/index.html[0K
- create mode 100644 public/publication/kan2017functional/kan2017functional.bib[0K
- create mode 100644 public/publication/li2016clinical/index.html[0K
- create mode 100644 public/publication/li2016clinical/li2016clinical.bib[0K
- create mode 100644 public/publication/li2016development/index.html[0K
- create mode 100644 public/publication/li2016development/li2016development.bib[0K
- create mode 100644 public/publication/li2016mutation/index.html[0K
- create mode 100644 public/publication/li2016mutation/li2016mutation.bib[0K
- create mode 100644 public/publication/li2017bilateral/index.html[0K
- create mode 100644 public/publication/li2017bilateral/li2017bilateral.bib[0K
- create mode 100644 public/publication/li2017more/index.html[0K
- create mode 100644 public/publication/li2017more/li2017more.bib[0K
- create mode 100644 public/publication/liu2015ibs/index.html[0K
- create mode 100644 public/publication/liu2015ibs/liu2015ibs.bib[0K
- create mode 100644 public/publication/liu2016conformation/index.html[0K
- create mode 100644 public/publication/liu2016conformation/liu2016conformation.bib[0K
- create mode 100644 public/publication/liu2016htert/index.html[0K
- create mode 100644 public/publication/liu2016htert/liu2016htert.bib[0K
- create mode 100644 public/publication/liu2018dysregulation/index.html[0K
- create mode 100644 public/publication/liu2018dysregulation/liu2018dysregulation.bib[0K
- create mode 100644 public/publication/lu2018me1/index.html[0K
- create mode 100644 public/publication/lu2018me1/lu2018me1.bib[0K
- create mode 100644 public/publication/shi2015systematic/index.html[0K
- create mode 100644 public/publication/shi2015systematic/shi2015systematic.bib[0K
- create mode 100644 public/publication/wang2018cpt1a/index.html[0K
- create mode 100644 public/publication/wang2018cpt1a/wang2018cpt1a.bib[0K
- create mode 100644 public/publication/wang2018genomic/index.html[0K
- create mode 100644 public/publication/wang2018genomic/wang2018genomic.bib[0K
- create mode 100644 public/publication/xie2016gps/index.html[0K
- create mode 100644 public/publication/xie2016gps/xie2016gps.bib[0K
- create mode 100644 public/publication/xie2017virusmap/index.html[0K
- create mode 100644 public/publication/xie2017virusmap/xie2017virusmap.bib[0K
- create mode 100644 public/publication/xu2017circulating/index.html[0K
- create mode 100644 public/publication/xu2017circulating/xu2017circulating.bib[0K
- create mode 100644 public/publication/ye2018whole/index.html[0K
- create mode 100644 public/publication/ye2018whole/ye2018whole.bib[0K
- create mode 100644 public/publication/zeng2018microrna/index.html[0K
- create mode 100644 public/publication/zeng2018microrna/zeng2018microrna.bib[0K
- create mode 100644 public/publication/zhang2017expression/index.html[0K
- create mode 100644 public/publication/zhang2017expression/zhang2017expression.bib[0K
- create mode 100644 public/publication/zhao2014gps/index.html[0K
- create mode 100644 public/publication/zhao2014gps/zhao2014gps.bib[0K
- create mode 100644 public/publication/zhao2018idea/index.html[0K
- create mode 100644 public/publication/zhao2018idea/zhao2018idea.bib[0K
- create mode 100644 public/publication/zhao2018lncpipe/index.html[0K
- create mode 100644 public/publication/zhao2018lncpipe/zhao2018lncpipe.bib[0K
- create mode 100644 public/publication/zuo2018pan/index.html[0K
- create mode 100644 public/publication/zuo2018pan/zuo2018pan.bib[0K
- create mode 100644 public/publication_types/0/index.html[0K
- create mode 100644 public/publication_types/0/index.xml[0K
- create mode 100644 public/publication_types/0/page/1/index.html[0K
- create mode 100644 public/publication_types/2/index.html[0K
- create mode 100644 public/publication_types/2/index.xml[0K
- create mode 100644 public/publication_types/2/page/1/index.html[0K
- create mode 100644 public/publication_types/2/page/2/index.html[0K
- create mode 100644 public/publication_types/2/page/3/index.html[0K
- create mode 100644 public/publication_types/index.html[0K
- create mode 100644 public/publication_types/index.xml[0K
- create mode 100644 public/publication_types/page/1/index.html[0K
- create mode 100644 public/site.webmanifest[0K
- create mode 100644 public/sitemap.xml[0K
- create mode 100644 public/slides/example-slides/index.html[0K
- create mode 100644 public/slides/index.xml[0K
- create mode 100644 public/styles.css[0K
- create mode 100644 public/tags/bed/index.html[0K
- create mode 100644 public/tags/bed/index.xml[0K
- create mode 100644 public/tags/bed/page/1/index.html[0K
- create mode 100644 public/tags/data-format/index.html[0K
- create mode 100644 public/tags/data-format/index.xml[0K
- create mode 100644 public/tags/data-format/page/1/index.html[0K
- create mode 100644 public/tags/deep-learning/index.html[0K
- create mode 100644 public/tags/deep-learning/index.xml[0K
- create mode 100644 public/tags/deep-learning/page/1/index.html[0K
- create mode 100644 public/tags/demo/index.html[0K
- create mode 100644 public/tags/demo/index.xml[0K
- create mode 100644 public/tags/demo/page/1/index.html[0K
- create mode 100644 public/tags/index.html[0K
- create mode 100644 public/tags/index.xml[0K
- create mode 100644 public/tags/page/1/index.html[0K
- create mode 100644 public/tags/processing/index.html[0K
- create mode 100644 public/tags/processing/index.xml[0K
- create mode 100644 public/tags/processing/page/1/index.html[0K
- create mode 100644 public/tags/r-markdown/index.html[0K
- create mode 100644 public/tags/r-markdown/index.xml[0K
- create mode 100644 public/tags/r-markdown/page/1/index.html[0K
- create mode 100644 public/tags/regression/index.html[0K
- create mode 100644 public/tags/regression/index.xml[0K
- create mode 100644 public/tags/regression/page/1/index.html[0K
- create mode 100644 public/tags/setting/index.html[0K
- create mode 100644 public/tags/setting/index.xml[0K
- create mode 100644 public/tags/setting/page/1/index.html[0K
- create mode 100644 public/talk/example/featured.jpg[0K
- create mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_box.jpg[0K
- create mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_1600x400_fill_q90_box_right.jpg[0K
- create mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_680x500_fill_q90_box_right.jpg[0K
- create mode 100644 public/talk/example/index.html[0K
- create mode 100644 public/talk/index.html[0K
- create mode 100644 public/talk/index.xml[0K
- create mode 100644 public/tutorial/example/index.html[0K
- create mode 100644 public/tutorial/index.html[0K
- create mode 100644 public/tutorial/index.xml[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "add public"[0K[?25h[?25l$ git push origin master[0K[26G[?25h[?25l
-[0K[?25hEnumerating objects: 207, done.[0K[?25l
-Counting objects:   7% (15/207)[0K[1G[?25hCounting objects: 100% (207/207), done.[0K[?25l
-Delta compression using up to 4 threads.[0K
-Compressing objects: 100% (157/157), done.[0K
-Writing objects:   2% (5/201)[0K[1G[?25h[?25lWriting objects:  80% (161/201)[0K[1G[?25hWriting objects: 100% (201/201), 106.52 KiB | 3.33 MiB/s, done.[0K[?25l
-Total 201 (delta 87), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (87/87), completed with 2 local objects.[0K[?25l
-To https://github.com/likelet/HUGO_webcode.git[0K
-   6bd5e9f..cb5eb53  master -> master[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0K]0;:/e/project/R/likelet.github.io[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-[?25l$ du -sh ProgramData/[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd /C[0K[?25h[?25l$ cd /cmd/[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ du -sh *[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ du -sh *[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd /cmd/[0K[?25h[?25l$ cd /C[0K[?25h[?25l$ ls[0K[?25h[?25l$ du -sh ProgramData/[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add =[0K[?25hA[0K[?25l$ git add =[0K[?25h[?25l$ git add[0K[11G[?25h[10G[11G[?25l$ git add -[0K[?25hA[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git add -A[0K[?25h[?25l$ git add -[0K[?25h[?25l$ git add[0K[11G[?25h[10G[?25l$ git ad[0K[?25h[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "d"[0K[19G[?25h[?25l$ git commit -m "de"[0K[20G[?25h[?25l$ git commit -m "del"[0K[21G[?25h[?25l$ git commit -m "dele"[0K[22G[?25h[?25l$ git commit -m "delet"[0K[23G[?25h[?25l$ git commit -m "delete"[0K[24G[?25h[?25l$ git commit -m "delete "[0K[25G[?25h[?25l$ git commit -m "delete p"[0K[26G[?25h[?25l$ git commit -m "delete pu"[0K[27G[?25h[?25l$ git commit -m "delete pub"[0K[28G[?25h[?25l$ git commit -m "delete publ"[0K[29G[?25h[?25l$ git commit -m "delete publi"[0K[30G[?25h[?25l$ git commit -m "delete public"[0K[31G[?25h[?25l
-[0K[?25h[master 7be5d84] delete public[0K[?25l
- 152 files changed, 700 insertions(+), 43425 deletions(-)[0K
- delete mode 100644 public/404.html[0K
- delete mode 100644 public/categories/index.html[0K
- delete mode 100644 public/categories/index.xml[0K
- delete mode 100644 public/categories/install/index.html[0K
- delete mode 100644 public/categories/install/index.xml[0K
- delete mode 100644 public/categories/install/page/1/index.html[0K
- delete mode 100644 public/categories/page/1/index.html[0K
- delete mode 100644 public/categories/r/index.html[0K
- delete mode 100644 public/categories/r/index.xml[0K
- delete mode 100644 public/categories/r/page/1/index.html[0K
- delete mode 100644 public/css/reveal_custom.min.css[0K
- delete mode 100644 public/home/index.xml[0K
- delete mode 100644 public/img/boards.jpg[0K
- delete mode 100644 public/img/headers/bubbles-wide.jpg[0K
- delete mode 100644 public/img/icon-192.png[0K
- delete mode 100644 public/img/icon.png[0K
- delete mode 100644 public/img/photo.jpg[0K
- delete mode 100644 public/img/portrait.jpg[0K
- delete mode 100644 public/index.html[0K
- delete mode 100644 public/index.json[0K
- delete mode 100644 public/index.xml[0K
- delete mode 100644 public/js/hugo-academic.js[0K
- delete mode 100644 public/js/search.js[0K
- delete mode 100644 public/js/vendor/reveal.js/plugin/notes/notes.html[0K
- delete mode 100644 public/js/vendor/reveal.js/plugin/notes/notes.js[0K
- delete mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[0K
- delete mode 100644 public/post/2018-07-08-r-rmarkdown/index.html[0K
- delete mode 100644 public/post/2018-07-20-r-rmarkdown/index.html[0K
- delete mode 100644 public/post/index.html[0K
- delete mode 100644 public/post/index.xml[0K
- delete mode 100644 public/post/page/1/index.html[0K
- delete mode 100644 public/project/external-project/featured.jpg[0K
- delete mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_1600x400_fill_q90_box_smar[0Kt
-1.jpg[0K
- delete mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_550x550_fill_q90_box_smart[0K1
-.jpg[0K
- delete mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_680x500_fill_q90_box_smart[0K1
-.jpg[0K
- delete mode 100644 public/project/external-project/index.html[0K
- delete mode 100644 public/project/index.html[0K
- delete mode 100644 public/project/index.xml[0K
- delete mode 100644 public/project/internal-project/featured.jpg[0K
- delete mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_1600x400_fill_q90_box_smar[0Kt
-1.jpg[0K
- delete mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x550_fill_q90_box_smart[0K1
-.jpg[0K
- delete mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_680x500_fill_q90_box_smart[0K1
-.jpg[0K
- delete mode 100644 public/project/internal-project/index.html[0K
- delete mode 100644 public/project/page/1/index.html[0K
- delete mode 100644 public/publication/bai2016chemotherapy/bai2016chemotherapy.bib[0K
- delete mode 100644 public/publication/bai2016chemotherapy/index.html[0K
- delete mode 100644 public/publication/feng2017firmiana/feng2017firmiana.bib[0K
- delete mode 100644 public/publication/feng2017firmiana/index.html[0K
- delete mode 100644 public/publication/index.html[0K
- delete mode 100644 public/publication/index.xml[0K
- delete mode 100644 public/publication/kan2017functional/index.html[0K
- delete mode 100644 public/publication/kan2017functional/kan2017functional.bib[0K
- delete mode 100644 public/publication/li2016clinical/index.html[0K
- delete mode 100644 public/publication/li2016clinical/li2016clinical.bib[0K
- delete mode 100644 public/publication/li2016development/index.html[0K
- delete mode 100644 public/publication/li2016development/li2016development.bib[0K
- delete mode 100644 public/publication/li2016mutation/index.html[0K
- delete mode 100644 public/publication/li2016mutation/li2016mutation.bib[0K
- delete mode 100644 public/publication/li2017bilateral/index.html[0K
- delete mode 100644 public/publication/li2017bilateral/li2017bilateral.bib[0K
- delete mode 100644 public/publication/li2017more/index.html[0K
- delete mode 100644 public/publication/li2017more/li2017more.bib[0K
- delete mode 100644 public/publication/liu2015ibs/index.html[0K
- delete mode 100644 public/publication/liu2015ibs/liu2015ibs.bib[0K
- delete mode 100644 public/publication/liu2016conformation/index.html[0K
- delete mode 100644 public/publication/liu2016conformation/liu2016conformation.bib[0K
- delete mode 100644 public/publication/liu2016htert/index.html[0K
- delete mode 100644 public/publication/liu2016htert/liu2016htert.bib[0K
- delete mode 100644 public/publication/liu2018dysregulation/index.html[0K
- delete mode 100644 public/publication/liu2018dysregulation/liu2018dysregulation.bib[0K
- delete mode 100644 public/publication/lu2018me1/index.html[0K
- delete mode 100644 public/publication/lu2018me1/lu2018me1.bib[0K
- delete mode 100644 public/publication/shi2015systematic/index.html[0K
- delete mode 100644 public/publication/shi2015systematic/shi2015systematic.bib[0K
- delete mode 100644 public/publication/wang2018cpt1a/index.html[0K
- delete mode 100644 public/publication/wang2018cpt1a/wang2018cpt1a.bib[0K
- delete mode 100644 public/publication/wang2018genomic/index.html[0K
- delete mode 100644 public/publication/wang2018genomic/wang2018genomic.bib[0K
- delete mode 100644 public/publication/xie2016gps/index.html[0K
- delete mode 100644 public/publication/xie2016gps/xie2016gps.bib[0K
- delete mode 100644 public/publication/xie2017virusmap/index.html[0K
- delete mode 100644 public/publication/xie2017virusmap/xie2017virusmap.bib[0K
- delete mode 100644 public/publication/xu2017circulating/index.html[0K
- delete mode 100644 public/publication/xu2017circulating/xu2017circulating.bib[0K
- delete mode 100644 public/publication/ye2018whole/index.html[0K
- delete mode 100644 public/publication/ye2018whole/ye2018whole.bib[0K
- delete mode 100644 public/publication/zeng2018microrna/index.html[0K
- delete mode 100644 public/publication/zeng2018microrna/zeng2018microrna.bib[0K
- delete mode 100644 public/publication/zhang2017expression/index.html[0K
- delete mode 100644 public/publication/zhang2017expression/zhang2017expression.bib[0K
- delete mode 100644 public/publication/zhao2014gps/index.html[0K
- delete mode 100644 public/publication/zhao2014gps/zhao2014gps.bib[0K
- delete mode 100644 public/publication/zhao2018idea/index.html[0K
- delete mode 100644 public/publication/zhao2018idea/zhao2018idea.bib[0K
- delete mode 100644 public/publication/zhao2018lncpipe/index.html[0K
- delete mode 100644 public/publication/zhao2018lncpipe/zhao2018lncpipe.bib[0K
- delete mode 100644 public/publication/zuo2018pan/index.html[0K
- delete mode 100644 public/publication/zuo2018pan/zuo2018pan.bib[0K
- delete mode 100644 public/publication_types/0/index.html[0K
- delete mode 100644 public/publication_types/0/index.xml[0K
- delete mode 100644 public/publication_types/0/page/1/index.html[0K
- delete mode 100644 public/publication_types/2/index.html[0K
- delete mode 100644 public/publication_types/2/index.xml[0K
- delete mode 100644 public/publication_types/2/page/1/index.html[0K
- delete mode 100644 public/publication_types/2/page/2/index.html[0K
- delete mode 100644 public/publication_types/2/page/3/index.html[0K
- delete mode 100644 public/publication_types/index.html[0K
- delete mode 100644 public/publication_types/index.xml[0K
- delete mode 100644 public/publication_types/page/1/index.html[0K
- delete mode 100644 public/site.webmanifest[0K
- delete mode 100644 public/sitemap.xml[0K
- delete mode 100644 public/slides/example-slides/index.html[0K
- delete mode 100644 public/slides/index.xml[0K
- delete mode 100644 public/styles.css[0K
- delete mode 100644 public/tags/bed/index.html[0K
- delete mode 100644 public/tags/bed/index.xml[0K
- delete mode 100644 public/tags/bed/page/1/index.html[0K
- delete mode 100644 public/tags/data-format/index.html[0K
- delete mode 100644 public/tags/data-format/index.xml[0K
- delete mode 100644 public/tags/data-format/page/1/index.html[0K
- delete mode 100644 public/tags/deep-learning/index.html[0K
- delete mode 100644 public/tags/deep-learning/index.xml[0K
- delete mode 100644 public/tags/deep-learning/page/1/index.html[0K
- delete mode 100644 public/tags/demo/index.html[0K
- delete mode 100644 public/tags/demo/index.xml[0K
- delete mode 100644 public/tags/demo/page/1/index.html[0K
- delete mode 100644 public/tags/index.html[0K
- delete mode 100644 public/tags/index.xml[0K
- delete mode 100644 public/tags/page/1/index.html[0K
- delete mode 100644 public/tags/processing/index.html[0K
- delete mode 100644 public/tags/processing/index.xml[0K
- delete mode 100644 public/tags/processing/page/1/index.html[0K
- delete mode 100644 public/tags/r-markdown/index.html[0K
- delete mode 100644 public/tags/r-markdown/index.xml[0K
- delete mode 100644 public/tags/r-markdown/page/1/index.html[0K
- delete mode 100644 public/tags/regression/index.html[0K
- delete mode 100644 public/tags/regression/index.xml[0K
- delete mode 100644 public/tags/regression/page/1/index.html[0K
- delete mode 100644 public/tags/setting/index.html[0K
- delete mode 100644 public/tags/setting/index.xml[0K
- delete mode 100644 public/tags/setting/page/1/index.html[0K
- delete mode 100644 public/talk/example/featured.jpg[0K
- delete mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_box.jpg[0K
- delete mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_1600x400_fill_q90_box_right.jpg[0K
- delete mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_680x500_fill_q90_box_right.jpg[0K
- delete mode 100644 public/talk/example/index.html[0K
- delete mode 100644 public/talk/index.html[0K
- delete mode 100644 public/talk/index.xml[0K
- delete mode 100644 public/tutorial/example/index.html[0K
- delete mode 100644 public/tutorial/index.html[0K
- delete mode 100644 public/tutorial/index.xml[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[12G[11G[?25l$ git pul[0K[?25h[?25l$ git pu[0K[?25h[?25l$ git p[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin t[0K[?25h[21G[20G[?25l$ git push origin[0K[19G[?25h[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[26G[?25l
-[0K[?25hEnumerating objects: 11, done.[0K[?25l
-Counting objects:  54% (6/11)[0K[1G[?25hCounting objects: 100% (11/11), done.[0K[?25l
-Delta compression using up to 4 threads.[0K
-Compressing objects: 100% (3/3), done.[0K
-Writing objects: 100% (6/6), 1.13 KiB | 1.13 MiB/s, done.[0K
-Total 6 (delta 2), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K[?25l
-[0K[?25hTo https://github.com/likelet/HUGO_webcode.git[0K[?25l
-   cb5eb53..7be5d84  master -> master[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule update --init --recursive[0K[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git clone --recursive[0K[?25h[?25l
-[0K[?25hfatal: You must specify a repository to clone.[0K[?25l
-[0K
-usage: git clone [<options>] [--] <repo> [<dir>][0K
-[0K
-    -v, --verbose         be more verbose[0K
-    -q, --quiet           be more quiet[0K
-    --progress            force progress reporting[0K
-    -n, --no-checkout     don't create a checkout[0K
-    --bare                create a bare repository[0K
-    --mirror              create a mirror repository (implies bare)[0K
-    -l, --local           to clone from a local repository[0K
-    --no-hardlinks        don't use local hardlinks, always copy[0K
-    -s, --shared          setup as shared repository[0K
-    --recurse-submodules[=<pathspec>][0K
-                          initialize submodules in the clone[0K
-    -j, --jobs <n>        number of submodules cloned in parallel[0K
-    --template <template-directory>[0K
-                          directory from which templates will be used[0K
-    --reference <repo>    reference repository[0K
-    --reference-if-able <repo>[0K
-                          reference repository[0K
-    --dissociate          use --reference only while cloning[0K
-    -o, --origin <name>   use <name> instead of 'origin' to track upstream[0K
-    -b, --branch <branch>[0K
-                          checkout <branch> instead of the remote's HEAD[0K
-    -u, --upload-pack <path>[0K
-                          path to git-upload-pack on the remote[0K
-    --depth <depth>       create a shallow clone of that depth[0K
-    --shallow-since <time>[0K
-                          create a shallow clone since a specific time[0K
-    --shallow-exclude <revision>[0K
-                          deepen history of shallow clone, excluding rev[0K
-    --single-branch       clone only one branch, HEAD or --branch[0K
-    --no-tags             don't clone any tags, and make later fetches not to follow them[0K
-    --shallow-submodules  any cloned submodules will be shallow[0K
-    --separate-git-dir <gitdir>[0K
-                          separate git dir from working tree[0K
-    -c, --config <key=value>[0K
-                          set config inside the new repository[0K
-    -4, --ipv4            use IPv4 addresses only[0K
-    -6, --ipv6            use IPv6 addresses only[0K
-    --filter <args>       object filtering[0K
-[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git clone --recursive[0K[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git clone --recursive[0K[?25h[?25l$ git submodule update --init --recursive[0K[?25h[?25l$ git clone --recursive[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25l$ g[0K[?25h[?25l$[0K[3G[?25h[?25l$ git clone --recursive[0K[?25h[?25l$ git submodule update --init --recursive[0K[?25h[?25l$ git push origin master[0K[26G[?25h[?25l$ git commit -m "delete public"[0K[?25h[?25l$ git add -A[0K[?25h[?25l$ du -sh ProgramData/[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd /C[0K[?25h[?25l$ cd /cmd/[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ du -sh *[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ du -sh *[0K[?25h[?25l$ du -s *h[0K[?25h[?25l$ du -sh *[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ du -sh *[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd ..[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd /cmd/[0K[?25h[?25l$ cd /C[0K[?25h[?25l$ ls[0K[?25h[?25l$ du -sh ProgramData/[0K[?25h[?25l$ git add -A[0K[?25h[?25l$ git commit -m "delete public"[0K[?25h[?25l$ git push origin master[0K[26G[?25h[?25l$ git submodule update --init --recursive[0K[?25h[?25l$ git clone --recursive[0K[?25h[?25l$[0K[3G[?25h[?25l$ h[0K[?25hi[0Ks[0Ktory[0K[11G[?25l$ history |[0K[?25h[13G[?25l$ history | g[0K[?25hi[0Kt[0K[17G[?25l$ history | git s[0K[?25hu[0Kb[0Km[0Ko[0Kd[0Ku[0Ke[0K[?25l$ history | git submodu[0K[?25hl[0Ke[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:[0K[?25hl[0Ki[0Kk[0Ke[0Kl[0Ke[0Kt[0K.[0Kl[0Ki[0Kk[0Ke[0Kl[0Ke[0Kt[0K[?25l$ git submodule add -b master git@github.com:likelet.likele[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet.likel[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet.like[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet.lik[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet.li[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet.l[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet.[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet[0K[?25h/[0Kl[0Ki[0Kk[0Ke[0Kl[0Ke[0Kt[0K.[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K,[0K.[0K[?25l$ git submodule add -b master git@github.com:likelet/likelet.github,[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github[0K[?25h.[0Ki[0Ko[0K.[0Kg[0Ki[0Kt[0K[76G[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git p[0K[?25hu[0Kb[0Kl[0Ki[0Kc[0K[?25l
-[0K[?25hA git directory for 'public' is found locally with remote(s):[0K[?25l
-[0K[?25h  origin        git@github.com:likelet/likelet.github.io.git[0K[?25l
-[0K[?25hIf you want to reuse this local git directory instead of cloning again from[0K[?25l
-  git@github.com:likelet/likelet.github.io.git[0K
-use the '--force' option. If the local git directory is not the correct repo[0K
-or you are unsure what this means choose another name with the '--name' option.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
-[0K[?25hA git directory for 'public' is found locally with remote(s):[0K[?25l
-[0K[?25h  origin        git@github.com:likelet/likelet.github.io.git[0K[?25l
-[0K[?25hIf you want to reuse this local git directory instead of cloning again from[0K[?25l
-  git@github.com:likelet/likelet.github.io.git[0K
-use the '--force' option. If the local git directory is not the correct repo[0K
-or you are unsure what this means choose another name with the '--name' option.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0K[?25l$ git re[0K[?25hm[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote r[0K[?25he[0Km[0Ko[0Kv[0Ke[0K[21G[?25l$ git remote remove o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote remove origin[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
-[0K[?25hA git directory for 'public' is found locally with remote(s):[0K[?25l
-  origin        git@github.com:likelet/likelet.github.io.git[0K
-[0K[?25hIf you want to reuse this local git directory instead of cloning again from[0K[?25l
-  git@github.com:likelet/likelet.github.io.git[0K
-use the '--force' option. If the local git directory is not the correct repo[0K
-or you are unsure what this means choose another name with the '--name' option.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ r[0K[?25hi[0Kt[0K[7G[?25l$ rit r[0K[?25he[0K[?25l$ rit r[0K[?25h[?25l$ rit[0K[7G[?25h[6G[?25l$ ri[0K[?25h[?25l$ r[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0Ke[0K[8G[?25l$ gite m[0K[?25ho[0K[?25l$ gite m[0K[?25h[?25l$ gite[0K[8G[?25h[7G[?25l$ git[0K[?25h[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote[0K[14G[?25h[?25l$ git remote -[0K[?25hv[0K[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hl[0Ko[0Kn[0Ke[0K[13G[?25l$ git clone git submodule add -b master git@github.com:[0K[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25hl[0Ko[0Kn[0Ke[0K[13G[?25l$ git clone git@github.com:likelet/likelet.github.io.git[0K[?25h[58G[?25l$ git clone git@github.com:likelet/likelet.github.io.git p[0K[?25hu[0Kb[0Kl[0Ki[0Kc[0K[65G[?25l
-[0K[?25hCloning into 'public'...[0K[?25l
-[0K[?25hremote: Enumerating objects: 3, done.[0K[?25l
-remote: Counting objects: 100% (3/3), done.[0K
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[0K
-Receiving objects: 100% (3/3), done.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
-[0K[?25hAdding existing repo at 'public' to the index[0K[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .gitmodules.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kr[0K[7G[6G[?25l$ girt[0K[?25h[?25l$ gir[0K[?25h[?25l$ gi[0K[?25ht[0K[7G[?25l$ git -[0K[?25ha[0K[10G[?25l$ git -a a[0K[?25hd[0Kd[0K[14G[13G[?25l$ git -a ad[0K[?25h[?25l$ git -a a[0K[?25h[?25l$ git -a[0K[10G[?25h[9G[?25l$ git -[0K[?25h[?25l$ git[0K[7G[?25h[6G[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .gitmodules.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "a"[0K[19G[?25h[?25l$ git commit -m "ad"[0K[20G[?25h[?25l$ git commit -m "add"[0K[21G[?25h[?25l$ git commit -m "add "[0K[22G[?25h[?25l$ git commit -m "add d"[0K[23G[?25h[?25l$ git commit -m "add "[0K[22G[?25h[?25l$ git commit -m "add s"[0K[23G[?25h[?25l$ git commit -m "add su"[0K[24G[?25h[?25l$ git commit -m "add sub"[0K[25G[?25h[?25l$ git commit -m "add subm"[0K[26G[?25h[?25l$ git commit -m "add submo"[0K[27G[?25h[?25l$ git commit -m "add submod"[0K[28G[?25h[?25l$ git commit -m "add submodl"[0K[29G[?25h[?25l$ git commit -m "add submod"[0K[28G[?25h[?25l$ git commit -m "add submodu"[0K[29G[?25h[?25l$ git commit -m "add submodul"[0K[30G[?25h[?25l$ git commit -m "add submodule"[0K[31G[?25h[?25l
-[0K[?25h[master 7c3057b] add submodule[0K[?25l
- 3 files changed, 290 insertions(+), 2 deletions(-)[0K
- create mode 160000 public[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "add submodule"[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[6G[5G[?25l$ git[0K[?25h[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kn[0K[?25l$ git push ori[0K[?25hg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[26G[?25l
-[0K[?25hfatal: 'origin' does not appear to be a git repository[0K[?25l
-fatal: Could not read from remote repository.[0K
-[0K
-Please make sure you have the correct access rights[0K
-and the repository exists.[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ a[0K[?25hi[0Kg[0K[7G[6G[?25l$ ai[0K[?25h[?25l$ a[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0K[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote a[0K[?25hd[0Kd[0K[18G[?25l$ git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[25G[?25l$ git remote add origin https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git remote add origin https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git push origin master[0K[26G[?25h[?25l
-[0K[?25hEnumerating objects: 13, done.[0K[?25l
-Counting objects: 100% (13/13), done.[0K
-Delta compression using up to 4 threads.[0K
-Compressing objects:  50% (2/4)[0K[1G[?25hCompressing objects: 100% (4/4), done.[0K[?25l
-Writing objects: 100% (7/7), 2.57 KiB | 2.57 MiB/s, done.[0K
-Total 7 (delta 2), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K[?25l
-[0K[?25hTo https://github.com/likelet/HUGO_webcode.git[0K[?25l
-   7be5d84..7c3057b  master -> master[0K
-[0K[?25h[?25l
-[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
-[0K[?25h

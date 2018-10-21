@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "Academic"
+title = "LncPipe"
 
 # Order that this section will appear in.
 weight = 3
@@ -24,13 +24,13 @@ weight = 3
   label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket:
+A Nextflow-based pipeline for comprehensive analyses of long non-coding RNAs from RNA-seq datasets:rocket:
 <div style="margin-top: -0.5rem;">
-  <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
+  <a id="academic-release" href="https://github.com/likelet/LncPipe/releases" data-repo="likelet/LncPipe">
   Latest release <!-- V -->
   </a>
 </div>
 <div class="mt-3">
-  <a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
+  <a class="github-button" href="https://github.com/likelet/LncPipe" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
 </div>
 <script async defer src="https://buttons.github.io/buttons.js"></script>

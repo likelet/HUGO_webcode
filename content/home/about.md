@@ -32,6 +32,6 @@ weight = 5
 
 # Biography
 
-Qi Zhao is a assistant professor of cancer bioinfomatics at the Sun Yat-sen university cancer center. He research interests include cancer genomics, biosoftware development and high performance computing. 
+Qi Zhao is an assistant professor of cancer bioinfomatics at the Sun Yat-sen university cancer center. He research interests include cancer genomics, biosoftware development and high performance computing. 
 
 
