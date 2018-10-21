@@ -179,4 +179,455 @@ The file will have its original line endings in your working directory.[0K
 [0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io/.Rproj.user[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[0m[0K]0;:/e/project/R/likelet.github.io[?25l
 [0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
-[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git -[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git -[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in public/publication/index.html.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ a[0K[?25hd[0Kd[0K[?25l$ ad[0K[?25h[?25l$ a[0K[?25h[?25l$[0K[3G[?25h[?25l$ a[0K[?25hd[0Kd[0K[?25l$ ad[0K[?25h[?25l$ a[0K[?25h[?25l$[0K[3G[?25h[?25l$ git add -A[0K[?25h[?25l$ git add -[0K[?25h[?25l$ git add[0K[11G[?25h[10G[?25l$ git ad[0K[?25h[?25l$ git a[0K[?25h[?25l$ git[0K[8G[?25h[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "u"[0K[19G[?25h[?25l$ git commit -m "up"[0K[20G[?25h[?25l$ git commit -m "upd"[0K[21G[?25h[?25l$ git commit -m "upda"[0K[22G[?25h[?25l$ git commit -m "updat"[0K[23G[?25h[?25l$ git commit -m "update"[0K[24G[?25h[?25l$ git commit -m "update "[0K[25G[?25h[?25l
+[0K[?25h[master 291a5a5] update[0K[?25l
+ 72 files changed, 22515 insertions(+), 530 deletions(-)[0K
+ delete mode 100644 content/publication/person-re-id/featured.jpg[0K
+ delete mode 100644 content/publication/person-re-id/index.md[0K
+ create mode 100644 public/publication/bai2016chemotherapy/bai2016chemotherapy.bib[0K
+ create mode 100644 public/publication/bai2016chemotherapy/index.html[0K
+ create mode 100644 public/publication/feng2017firmiana/feng2017firmiana.bib[0K
+ create mode 100644 public/publication/feng2017firmiana/index.html[0K
+ create mode 100644 public/publication/kan2017functional/index.html[0K
+ create mode 100644 public/publication/kan2017functional/kan2017functional.bib[0K
+ create mode 100644 public/publication/li2016clinical/index.html[0K
+ create mode 100644 public/publication/li2016clinical/li2016clinical.bib[0K
+ create mode 100644 public/publication/li2016development/index.html[0K
+ create mode 100644 public/publication/li2016development/li2016development.bib[0K
+ create mode 100644 public/publication/li2016mutation/index.html[0K
+ create mode 100644 public/publication/li2016mutation/li2016mutation.bib[0K
+ create mode 100644 public/publication/li2017bilateral/index.html[0K
+ create mode 100644 public/publication/li2017bilateral/li2017bilateral.bib[0K
+ create mode 100644 public/publication/li2017more/index.html[0K
+ create mode 100644 public/publication/li2017more/li2017more.bib[0K
+ create mode 100644 public/publication/liu2015ibs/index.html[0K
+ create mode 100644 public/publication/liu2015ibs/liu2015ibs.bib[0K
+ create mode 100644 public/publication/liu2016conformation/index.html[0K
+ create mode 100644 public/publication/liu2016conformation/liu2016conformation.bib[0K
+ create mode 100644 public/publication/liu2016htert/index.html[0K
+ create mode 100644 public/publication/liu2016htert/liu2016htert.bib[0K
+ create mode 100644 public/publication/liu2018dysregulation/index.html[0K
+ create mode 100644 public/publication/liu2018dysregulation/liu2018dysregulation.bib[0K
+ create mode 100644 public/publication/lu2018me1/index.html[0K
+ create mode 100644 public/publication/lu2018me1/lu2018me1.bib[0K
+ create mode 100644 public/publication/shi2015systematic/index.html[0K
+ create mode 100644 public/publication/shi2015systematic/shi2015systematic.bib[0K
+ create mode 100644 public/publication/wang2018cpt1a/index.html[0K
+ create mode 100644 public/publication/wang2018cpt1a/wang2018cpt1a.bib[0K
+ create mode 100644 public/publication/wang2018genomic/index.html[0K
+ create mode 100644 public/publication/wang2018genomic/wang2018genomic.bib[0K
+ create mode 100644 public/publication/xie2016gps/index.html[0K
+ create mode 100644 public/publication/xie2016gps/xie2016gps.bib[0K
+ create mode 100644 public/publication/xie2017virusmap/index.html[0K
+ create mode 100644 public/publication/xie2017virusmap/xie2017virusmap.bib[0K
+ create mode 100644 public/publication/xu2017circulating/index.html[0K
+ create mode 100644 public/publication/xu2017circulating/xu2017circulating.bib[0K
+ create mode 100644 public/publication/ye2018whole/index.html[0K
+ create mode 100644 public/publication/ye2018whole/ye2018whole.bib[0K
+ create mode 100644 public/publication/zeng2018microrna/index.html[0K
+ create mode 100644 public/publication/zeng2018microrna/zeng2018microrna.bib[0K
+ create mode 100644 public/publication/zhang2017expression/index.html[0K
+ create mode 100644 public/publication/zhang2017expression/zhang2017expression.bib[0K
+ create mode 100644 public/publication/zhao2014gps/index.html[0K
+ create mode 100644 public/publication/zhao2014gps/zhao2014gps.bib[0K
+ create mode 100644 public/publication/zhao2018idea/index.html[0K
+ create mode 100644 public/publication/zhao2018idea/zhao2018idea.bib[0K
+ create mode 100644 public/publication/zhao2018lncpipe/index.html[0K
+ create mode 100644 public/publication/zhao2018lncpipe/zhao2018lncpipe.bib[0K
+ create mode 100644 public/publication/zuo2018pan/index.html[0K
+ create mode 100644 public/publication/zuo2018pan/zuo2018pan.bib[0K
+ create mode 100644 public/publication_types/0/index.html[0K
+ create mode 100644 public/publication_types/0/index.xml[0K
+ create mode 100644 public/publication_types/0/page/1/index.html[0K
+ create mode 100644 public/publication_types/2/page/2/index.html[0K
+ create mode 100644 public/publication_types/2/page/3/index.html[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25hEnumerating objects: 683, done.[0K[?25l
+Counting objects:  52% (356/683)[0K[1G[?25hCounting objects: 100% (683/683), done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects:  20% (117/584)[0K[1G[?25h[?25lCompressing objects:  91% (532/584)[0K[2G[?25h[?25lCompressing objects:  97% (567/584)[0K[1G[?25h[?25lCompressing objects:  98% (573/584)[0K[1G[?25hCompressing objects: 100% (584/584), done.[0K[?25l
+Writing objects:   6% (41/683)[0K[1G[?25h[?25lWriting objects:  19% (130/683)[0K[1G[?25h[?25lWriting objects:  19% (133/683), 984.00 KiB | 58.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1016.00 KiB | 58.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.02 MiB | 54.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.04 MiB | 40.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.07 MiB | 39.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.10 MiB | 39.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.13 MiB | 39.00 KiB/s[0K[1G[?25h[?25lWriting objects:  20% (137/683), 1.13 MiB | 39.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (171/683), 1.13 MiB | 39.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.18 MiB | 16.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (178/683), 1.18 MiB | 16.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (178/683), 1.27 MiB | 20.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (178/683), 1.32 MiB | 23.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (178/683), 1.41 MiB | 56.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (180/683), 1.46 MiB | 61.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (180/683), 1.55 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (180/683), 1.60 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (180/683), 1.70 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (180/683), 1.74 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  27% (185/683), 1.74 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  28% (192/683), 1.74 MiB | 71.00 KiB/s[0K[1G[?25h[2G[?25lWriting objects:  29% (199/683), 1.79 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (205/683), 1.79 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (208/683), 1.84 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (208/683), 1.88 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (208/683), 1.98 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (208/683), 2.02 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (210/683), 2.12 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (211/683), 2.16 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (219/683), 2.21 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (222/683), 2.26 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (222/683), 2.30 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (224/683), 2.40 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (226/683), 2.40 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (229/683), 2.45 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (230/683), 2.54 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (233/683), 2.59 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.68 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.73 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.82 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.87 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (240/683), 2.87 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (241/683), 2.96 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (241/683), 3.01 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (243/683), 3.10 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  36% (247/683), 3.10 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  36% (249/683), 3.15 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (267/683), 3.15 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.24 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.29 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  40% (274/683), 3.34 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  40% (274/683), 3.43 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  42% (287/683), 3.48 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  48% (328/683), 3.48 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (397/683), 3.48 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (400/683), 3.57 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (401/683), 3.62 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (401/683), 3.71 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.71 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.80 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.85 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  71% (485/683), 3.95 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (499/683), 3.95 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (504/683), 3.99 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (505/683), 4.04 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (506/683), 4.09 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (508/683), 4.13 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  75% (513/683), 4.23 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  79% (540/683), 4.23 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  85% (581/683), 4.23 MiB | 71.00 KiB/s[0K[1G[?25h[?25lWriting objects:  98% (670/683), 4.27 MiB | 71.00 KiB/s[0K[1G[?25hWriting objects: 100% (683/683), 4.29 MiB | 59.00 KiB/s, done.[0K[?25l
+Total 683 (delta 184), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:   0% (0/184)[0K[1G[?25hremote: Resolving deltas: 100% (184/184), done.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: Create a pull request for 'master' on GitHub by visiting:[0K
+remote:      https://github.com/likelet/likelet.github.io/pull/new/master[0K
+remote:[0K
+[0K[?25hTo https://github.com/likelet/likelet.github.io.git[0K[?25l
+ * [new branch]      master -> master[0K
+Branch 'master' set up to track remote branch 'master' from 'origin'.[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+archetypes  config.toml  content  data  index.Rmd  layouts  likelet.github.io.Rproj  public  resources  static  themes[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0K]0;:/e/project/R/likelet.github.io[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25harchetypes  config.toml  content  data  index.Rmd  layouts  likelet.github.io.Rproj  public  resources  static  themes[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd .[0K[?25h.[0K[?25l
+[0K[?25h]0;:/e/project/R[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+CorAnalyzer  CrossICC  InteractiveVenny  PlotAppForTBtools  Venn  likelet.github.io  mseasy[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
+$[0K[3G[?25h[?25l$ git clone https://github.com/<USERNAME>/academic-kickstart.git[0K[?25h[64G[63G[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[50G[49G[48G[47G[46G[45G[44G[43G[42G[?25l$ git clone https://github.com/<USERNAME/academic-kickstart.git[0K[41G[?25h[?25l$ git clone https://github.com/<USERNAM/academic-kickstart.git[0K[40G[?25h[?25l$ git clone https://github.com/<USERNA/academic-kickstart.git[0K[39G[?25h[?25l$ git clone https://github.com/<USERN/academic-kickstart.git[0K[38G[?25h[?25l$ git clone https://github.com/<USER/academic-kickstart.git[0K[37G[?25h[?25l$ git clone https://github.com/<USE/academic-kickstart.git[0K[36G[?25h[?25l$ git clone https://github.com/<US/academic-kickstart.git[0K[35G[?25h[?25l$ git clone https://github.com/<U/academic-kickstart.git[0K[34G[?25h[?25l$ git clone https://github.com/</academic-kickstart.git[0K[33G[?25h[?25l$ git clone https://github.com//academic-kickstart.git[0K[32G[?25h[?25l$ git clone https://github.com/l/academic-kickstart.git[0K[33G[?25h[?25l$ git clone https://github.com/li/academic-kickstart.git[0K[34G[?25h[?25l$ git clone https://github.com/lik/academic-kickstart.git[0K[35G[?25h[?25l$ git clone https://github.com/like/academic-kickstart.git[0K[36G[?25h[?25l$ git clone https://github.com/likel/academic-kickstart.git[0K[37G[?25h[?25l$ git clone https://github.com/likele/academic-kickstart.git[0K[38G[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git[0K[39G[?25h[62G[63G[?25l
+CorAnalyzer/       InteractiveVenny/  Venn/              mseasy/[0K
+CrossICC/          PlotAppForTBtools/ likelet.github.io/[0K
+[0K
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
+$ git clone https://github.com/likelet/academic-kickstart.git[0K[63G[?25h[?25l
+CorAnalyzer/       InteractiveVenny/  Venn/              mseasy/[0K
+CrossICC/          PlotAppForTBtools/ likelet.github.io/[0K
+[0K
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
+$ git clone https://github.com/likelet/academic-kickstart.git[0K[63G[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.github.io[0K[?25h[?25l
+fatal: destination path 'likelet.github.io' already exists and is not an empty directory.[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R[0m[0K
+$[0K[3G[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.github.io[0K[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.github.i[0K[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.github.[0K[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.github[0K[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.githu[0K[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.gith[0K[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.git[0K[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.gi[0K[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.g[0K[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet.[0K[?25h[?25l$ git clone https://github.com/likelet/academic-kickstart.git likelet[0K[?25h[?25l
+Cloning into 'likelet'...[0K
+[0K[?25h[0m[0K]0;:/e/project/R/likelet.github.io[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+[?25l$ git remote add origin https://github.com/likelet/HUGO_webcode.git[0K
+[0K[?25hfatal: remote origin already exists.[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$ git push -u origin master[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/C66BC18B/console06/4BF4239C[0m[0K
+        [0;31mmodified:   config.toml[0m[0K
+        [0;31mmodified:   public/404.html[0m[0K
+        [0;31mmodified:   public/categories/index.html[0m[0K
+        [0;31mmodified:   public/categories/install/index.html[0m[0K
+        [0;31mmodified:   public/categories/r/index.html[0m[0K
+        [0;31mmodified:   public/index.html[0m[0K
+        [0;31mmodified:   public/index.xml[0m[0K
+        [0;31mmodified:   public/post/2018-07-08-r-rmarkdown/index.html[0m[0K
+        [0;31mmodified:   public/post/2018-07-20-r-rmarkdown/index.html[0m[0K
+        [0;31mmodified:   public/post/index.html[0m[0K
+        [0;31mmodified:   public/project/external-project/index.html[0m[0K
+        [0;31mmodified:   public/project/index.html[0m[0K
+        [0;31mmodified:   public/project/internal-project/index.html[0m[0K
+        [0;31mmodified:   public/publication/bai2016chemotherapy/index.html[0m[0K
+        [0;31mmodified:   public/publication/feng2017firmiana/index.html[0m[0K
+        [0;31mmodified:   public/publication/index.html[0m[0K
+        [0;31mmodified:   public/publication/kan2017functional/index.html[0m[0K
+        [0;31mmodified:   public/publication/li2016clinical/index.html[0m[0K
+        [0;31mmodified:   public/publication/li2016development/index.html[0m[0K
+        [0;31mmodified:   public/publication/li2016mutation/index.html[0m[0K
+        [0;31mmodified:   public/publication/li2017bilateral/index.html[0m[0K
+        [0;31mmodified:   public/publication/li2017more/index.html[0m[0K
+        [0;31mmodified:   public/publication/liu2015ibs/index.html[0m[0K
+        [0;31mmodified:   public/publication/liu2016conformation/index.html[0m[0K
+        [0;31mmodified:   public/publication/liu2016htert/index.html[0m[0K
+        [0;31mmodified:   public/publication/liu2018dysregulation/index.html[0m[0K
+        [0;31mmodified:   public/publication/lu2018me1/index.html[0m[0K
+        [0;31mmodified:   public/publication/shi2015systematic/index.html[0m[0K
+        [0;31mmodified:   public/publication/wang2018cpt1a/index.html[0m[0K
+        [0;31mmodified:   public/publication/wang2018genomic/index.html[0m[0K
+        [0;31mmodified:   public/publication/xie2016gps/index.html[0m[0K
+        [0;31mmodified:   public/publication/xie2017virusmap/index.html[0m[0K
+        [0;31mmodified:   public/publication/xu2017circulating/index.html[0m[0K
+        [0;31mmodified:   public/publication/ye2018whole/index.html[0m[0K
+        [0;31mmodified:   public/publication/zeng2018microrna/index.html[0m[0K
+        [0;31mmodified:   public/publication/zhang2017expression/index.html[0m[0K
+        [0;31mmodified:   public/publication/zhao2014gps/index.html[0m[0K
+        [0;31mmodified:   public/publication/zhao2018idea/index.html[0m[0K
+        [0;31mmodified:   public/publication/zhao2018lncpipe/index.html[0m[0K
+        [0;31mmodified:   public/publication/zuo2018pan/index.html[0m[0K
+        [0;31mmodified:   public/publication_types/0/index.html[0m[0K
+        [0;31mmodified:   public/publication_types/2/index.html[0m[0K
+        [0;31mmodified:   public/publication_types/2/page/2/index.html[0m[0K
+        [0;31mmodified:   public/publication_types/2/page/3/index.html[0m[0K
+        [0;31mmodified:   public/publication_types/index.html[0m[0K
+        [0;31mmodified:   public/sitemap.xml[0m[0K
+        [0;31mmodified:   public/tags/bed/index.html[0m[0K
+        [0;31mmodified:   public/tags/data-format/index.html[0m[0K
+        [0;31mmodified:   public/tags/deep-learning/index.html[0m[0K
+        [0;31mmodified:   public/tags/demo/index.html[0m[0K
+        [0;31mmodified:   public/tags/index.html[0m[0K
+        [0;31mmodified:   public/tags/processing/index.html[0m[0K
+        [0;31mmodified:   public/tags/r-markdown/index.html[0m[0K
+        [0;31mmodified:   public/tags/regression/index.html[0m[0K
+        [0;31mmodified:   public/tags/setting/index.html[0m[0K
+        [0;31mmodified:   public/talk/example/index.html[0m[0K
+        [0;31mmodified:   public/talk/index.html[0m[0K
+        [0;31mmodified:   public/tutorial/example/index.html[0m[0K
+        [0;31mmodified:   public/tutorial/index.html[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0K[?25h[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K[?25l
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kv[0K[?25l$ git remo[0K[?25ht[0Ke[0K[?25l
+origin[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote[0K[?25h[14G[?25l$ git remote r[0K[?25he[0Km[0Ko[0Kv[0Ke[0K[21G[?25l
+usage: git remote remove <name>[0K
+[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote remove[0K[21G[?25h[?25l$ git remote remove o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd git remote add origin https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote add origin https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25hEnumerating objects: 683, done.[0K[?25l
+Counting objects:   3% (21/683)[0K[2G[?25h[?25lCounting objects:  31% (212/683)[0K[1G[?25h[?25lCounting objects:  61% (417/683)[0K[1G[?25h[?25lCounting objects:  84% (574/683)[0K[1G[?25hCounting objects: 100% (683/683), done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects:  47% (275/584)[0K[1G[?25h[?25lCompressing objects:  88% (514/584)[0K[1G[?25h[?25lCompressing objects:  96% (561/584)[0K[1G[?25h[?25lCompressing objects:  98% (573/584)[0K[1G[?25hCompressing objects: 100% (584/584), done.[0K[?25l
+Writing objects:   3% (22/683)[0K[1G[?25h[?25lWriting objects:   9% (62/683)[0K[1G[?25h[?25lWriting objects:  19% (130/683)[0K[1G[?25h[?25lWriting objects:  19% (133/683), 984.00 KiB | 32.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1008.00 KiB | 32.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.01 MiB | 31.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.03 MiB | 31.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.08 MiB | 31.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.09 MiB | 29.00 KiB/s[0K[1G[?25h[2G[?25lWriting objects:  19% (133/683), 1.11 MiB | 29.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.13 MiB | 28.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (133/683), 1.14 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  21% (147/683), 1.16 MiB | 15.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (171/683), 1.17 MiB | 15.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (176/683), 1.19 MiB | 13.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (176/683), 1.20 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (176/683), 1.22 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.23 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.25 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.27 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.28 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.30 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.31 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.33 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.34 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.36 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.38 MiB | 13.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.39 MiB | 13.00 KiB/s[0K[1G[?25h[?25lWriting objects:  25% (177/683), 1.42 MiB | 16.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (178/683), 1.44 MiB | 16.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (179/683), 1.50 MiB | 23.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (179/683), 1.53 MiB | 26.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (179/683), 1.56 MiB | 29.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (179/683), 1.63 MiB | 36.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (179/683), 1.64 MiB | 36.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (179/683), 1.66 MiB | 35.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (179/683), 1.70 MiB | 35.00 KiB/s[0K[1G[?25h[?25lWriting objects:  26% (179/683), 1.73 MiB | 35.00 KiB/s[0K[1G[?25h[?25lWriting objects:  27% (185/683), 1.77 MiB | 35.00 KiB/s[0K[1G[?25h[?25lWriting objects:  29% (199/683), 1.77 MiB | 35.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (205/683), 1.80 MiB | 35.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 1.83 MiB | 35.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 1.84 MiB | 27.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 1.86 MiB | 27.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 1.88 MiB | 27.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 1.91 MiB | 27.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 1.92 MiB | 26.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 1.95 MiB | 22.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 1.97 MiB | 19.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 1.98 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 2.00 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (207/683), 2.02 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (209/683), 2.05 MiB | 15.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (209/683), 2.06 MiB | 15.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (209/683), 2.08 MiB | 15.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (209/683), 2.14 MiB | 20.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (210/683), 2.17 MiB | 23.00 KiB/s[0K[1G[?25h[?25lWriting objects:  30% (210/683), 2.20 MiB | 29.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (219/683), 2.20 MiB | 29.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (222/683), 2.27 MiB | 33.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (222/683), 2.28 MiB | 33.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (222/683), 2.30 MiB | 33.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (223/683), 2.33 MiB | 35.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (223/683), 2.36 MiB | 31.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (224/683), 2.38 MiB | 25.00 KiB/s[0K[1G[?25h[?25lWriting objects:  32% (224/683), 2.39 MiB | 21.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (226/683), 2.41 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (229/683), 2.42 MiB | 16.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (229/683), 2.44 MiB | 14.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (229/683), 2.45 MiB | 13.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (229/683), 2.47 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (229/683), 2.48 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (229/683), 2.50 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (230/683), 2.52 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (230/683), 2.53 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (230/683), 2.55 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (231/683), 2.56 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  33% (231/683), 2.58 MiB | 13.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (233/683), 2.59 MiB | 14.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.63 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.64 MiB | 19.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.67 MiB | 20.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.69 MiB | 20.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.70 MiB | 22.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.73 MiB | 19.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.75 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.78 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.80 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.83 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.86 MiB | 19.00 KiB/s[0K[1G[?25h[?25lWriting objects:  34% (239/683), 2.88 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (240/683), 2.89 MiB | 19.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (241/683), 2.91 MiB | 21.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (241/683), 2.92 MiB | 19.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (241/683), 2.94 MiB | 15.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (241/683), 2.95 MiB | 14.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (241/683), 2.97 MiB | 13.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (241/683), 2.98 MiB | 13.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (241/683), 3.00 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (242/683), 3.02 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (242/683), 3.03 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (242/683), 3.05 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (242/683), 3.06 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (243/683), 3.08 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (243/683), 3.09 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (243/683), 3.11 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  35% (243/683), 3.13 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  38% (260/683), 3.14 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (267/683), 3.16 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.17 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.19 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.20 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.22 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.23 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.25 MiB | 9.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.27 MiB | 9.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.28 MiB | 9.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.30 MiB | 9.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.33 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  39% (272/683), 3.34 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  40% (274/683), 3.36 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  40% (274/683), 3.38 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  40% (274/683), 3.39 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  40% (274/683), 3.41 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  40% (274/683), 3.42 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  40% (274/683), 3.44 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  40% (275/683), 3.45 MiB | 9.00 KiB/s[0K[1G[?25h[?25lWriting objects:  40% (275/683), 3.47 MiB | 9.00 KiB/s[0K[1G[?25h[?25lWriting objects:  48% (328/683), 3.48 MiB | 9.00 KiB/s[0K[1G[?25h[?25lWriting objects:  55% (376/683), 3.50 MiB | 9.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (397/683), 3.52 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (400/683), 3.53 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (400/683), 3.55 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (400/683), 3.56 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (400/683), 3.58 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (400/683), 3.59 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (400/683), 3.61 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (400/683), 3.63 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (400/683), 3.64 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (401/683), 3.66 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (401/683), 3.67 MiB | 10.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (401/683), 3.69 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  58% (401/683), 3.70 MiB | 13.00 KiB/s[0K[1G[?25h[?25lWriting objects:  63% (431/683), 3.72 MiB | 14.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.72 MiB | 14.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.77 MiB | 20.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.78 MiB | 19.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.80 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.81 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.84 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.86 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.88 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.91 MiB | 15.00 KiB/s[0K[1G[?25h[?25lWriting objects:  64% (438/683), 3.92 MiB | 16.00 KiB/s[0K[1G[?25h[?25lWriting objects:  67% (458/683), 3.94 MiB | 20.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (499/683), 3.95 MiB | 21.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (502/683), 3.97 MiB | 20.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (504/683), 3.98 MiB | 19.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (504/683), 4.00 MiB | 19.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (504/683), 4.02 MiB | 18.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (504/683), 4.03 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (504/683), 4.05 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  73% (504/683), 4.06 MiB | 14.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (506/683), 4.08 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (506/683), 4.09 MiB | 11.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (507/683), 4.13 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (508/683), 4.14 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (509/683), 4.16 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (510/683), 4.17 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (512/683), 4.19 MiB | 12.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (512/683), 4.20 MiB | 14.00 KiB/s[0K[1G[?25h[?25lWriting objects:  74% (512/683), 4.22 MiB | 16.00 KiB/s[0K[1G[?25h[?25lWriting objects:  76% (520/683), 4.23 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  78% (533/683), 4.23 MiB | 17.00 KiB/s[0K[1G[?25h[?25lWriting objects:  82% (561/683), 4.25 MiB | 16.00 KiB/s[0K[1G[?25h[?25lWriting objects:  90% (615/683), 4.27 MiB | 16.00 KiB/s[0K[1G[?25h[?25lWriting objects:  90% (615/683), 4.28 MiB | 14.00 KiB/s[0K[1G[?25h[?25lWriting objects: 100% (683/683), 4.28 MiB | 14.00 KiB/s[0K[1G[?25hWriting objects: 100% (683/683), 4.29 MiB | 17.00 KiB/s, done.[0K[?25l
+Total 683 (delta 185), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (185/185), done.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: Create a pull request for 'master' on GitHub by visiting:[0K
+remote:      https://github.com/likelet/HUGO_webcode/pull/new/master[0K
+remote:[0K
+To https://github.com/likelet/HUGO_webcode.git[0K
+ * [new branch]      master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git remote add origin https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25ho[0Ko[0Km[0Ki[0K[?25l$ git coom[0K[?25h[?25l$ git coo[0K[?25h[?25l$ git co[0K[?25hm[0Ki[0K[?25l$ git com[0K[?25hm[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[18G[?25l$ git commit -m "d"[0K[19G[?25h[?25l$ git commit -m "de"[0K[20G[?25h[?25l$ git commit -m "del"[0K[21G[?25h[?25l$ git commit -m "dele"[0K[22G[?25h[?25l$ git commit -m "delet"[0K[23G[?25h[?25l$ git commit -m "delete"[0K[24G[?25h[?25l$ git commit -m "delete "[0K[25G[?25h[?25l$ git commit -m "delete p"[0K[26G[?25h[?25l$ git commit -m "delete pu"[0K[27G[?25h[?25l$ git commit -m "delete pub"[0K[28G[?25h[?25l$ git commit -m "delete publ"[0K[29G[?25h[?25l$ git commit -m "delete publi"[0K[30G[?25h[?25l$ git commit -m "delete publis"[0K[31G[?25h[?25l$ git commit -m "delete publish"[0K[32G[?25h[?25l$ git commit -m "delete publis"[0K[31G[?25h[?25l$ git commit -m "delete publi"[0K[30G[?25h[?25l$ git commit -m "delete public"[0K[31G[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/C66BC18B/console06/4BF4239C[0m[0K
+        [0;31mmodified:   config.toml[0m[0K
+        [0;31mdeleted:    public/404.html[0m[0K
+        [0;31mdeleted:    public/categories/index.html[0m[0K
+        [0;31mdeleted:    public/categories/index.xml[0m[0K
+        [0;31mdeleted:    public/categories/install/index.html[0m[0K
+        [0;31mdeleted:    public/categories/install/index.xml[0m[0K
+        [0;31mdeleted:    public/categories/install/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/categories/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/categories/r/index.html[0m[0K
+        [0;31mdeleted:    public/categories/r/index.xml[0m[0K
+        [0;31mdeleted:    public/categories/r/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/css/reveal_custom.min.css[0m[0K
+        [0;31mdeleted:    public/home/index.xml[0m[0K
+        [0;31mdeleted:    public/img/IMG_0589.JPG[0m[0K
+        [0;31mdeleted:    public/img/boards.jpg[0m[0K
+        [0;31mdeleted:    public/img/headers/bubbles-wide.jpg[0m[0K
+        [0;31mdeleted:    public/img/icon-192.png[0m[0K
+        [0;31mdeleted:    public/img/icon.png[0m[0K
+        [0;31mdeleted:    public/img/photo.jpg[0m[0K
+        [0;31mdeleted:    public/img/portrait.jpg[0m[0K
+        [0;31mdeleted:    public/index.html[0m[0K
+        [0;31mdeleted:    public/index.json[0m[0K
+        [0;31mdeleted:    public/index.xml[0m[0K
+        [0;31mdeleted:    public/js/hugo-academic.js[0m[0K
+        [0;31mdeleted:    public/js/search.js[0m[0K
+        [0;31mdeleted:    public/js/vendor/reveal.js/plugin/notes/notes.html[0m[0K
+        [0;31mdeleted:    public/js/vendor/reveal.js/plugin/notes/notes.js[0m[0K
+        [0;31mdeleted:    public/post/2015-07-23-r-rmarkdown/index.html[0m[0K
+        [0;31mdeleted:    public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[0m[0K
+        [0;31mdeleted:    public/post/2018-07-08-r-rmarkdown/index.html[0m[0K
+        [0;31mdeleted:    public/post/2018-07-20-r-rmarkdown/index.html[0m[0K
+        [0;31mdeleted:    public/post/2018-07-20-tabix-your-bed/index.html[0m[0K
+        [0;31mdeleted:    public/post/getting-started/featured.jpg[0m[0K
+        [0;31mdeleted:    public/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q75_box.jpg[0m[0K
+        [0;31mdeleted:    public/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_1600x400_fill_q90_box_smart1.j[0Kp
+g[0m[0K
+        [0;31mdeleted:    public/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_680x500_fill_q90_box_smart1.jp[0Kg
+[0m[0K
+        [0;31mdeleted:    public/post/getting-started/index.html[0m[0K
+        [0;31mdeleted:    public/post/index.html[0m[0K
+        [0;31mdeleted:    public/post/index.xml[0m[0K
+        [0;31mdeleted:    public/post/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/privacy/index.html[0m[0K
+        [0;31mdeleted:    public/project/external-project/featured.jpg[0m[0K
+        [0;31mdeleted:    public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_1600x400_fill_q90_box_smar[0Kt
+1.jpg[0m[0K
+        [0;31mdeleted:    public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_550x550_fill_q90_box_smart[0K1
+.jpg[0m[0K
+        [0;31mdeleted:    public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_680x500_fill_q90_box_smart[0K1
+.jpg[0m[0K
+        [0;31mdeleted:    public/project/external-project/index.html[0m[0K
+        [0;31mdeleted:    public/project/index.html[0m[0K
+        [0;31mdeleted:    public/project/index.xml[0m[0K
+        [0;31mdeleted:    public/project/internal-project/featured.jpg[0m[0K
+        [0;31mdeleted:    public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_1600x400_fill_q90_box_smar[0Kt
+1.jpg[0m[0K
+        [0;31mdeleted:    public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x550_fill_q90_box_smart[0K1
+.jpg[0m[0K
+        [0;31mdeleted:    public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_680x500_fill_q90_box_smart[0K1
+.jpg[0m[0K
+        [0;31mdeleted:    public/project/internal-project/index.html[0m[0K
+        [0;31mdeleted:    public/project/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/publication/bai2016chemotherapy/bai2016chemotherapy.bib[0m[0K
+        [0;31mdeleted:    public/publication/bai2016chemotherapy/index.html[0m[0K
+        [0;31mdeleted:    public/publication/clothing-search/cite.bib[0m[0K
+        [0;31mdeleted:    public/publication/clothing-search/featured.jpg[0m[0K
+        [0;31mdeleted:    public/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q75_box.jp[0Kg
+[0m[0K
+        [0;31mdeleted:    public/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_1600x400_fill_q90_box_s[0Km
+art1.jpg[0m[0K
+        [0;31mdeleted:    public/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_680x500_fill_q90_box_sm[0Ka
+rt1.jpg[0m[0K
+        [0;31mdeleted:    public/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_918x517_fill_q90_box_sm[0Ka
+rt1.jpg[0m[0K
+        [0;31mdeleted:    public/publication/clothing-search/index.html[0m[0K
+        [0;31mdeleted:    public/publication/feng2017firmiana/feng2017firmiana.bib[0m[0K
+        [0;31mdeleted:    public/publication/feng2017firmiana/index.html[0m[0K
+        [0;31mdeleted:    public/publication/index.html[0m[0K
+        [0;31mdeleted:    public/publication/index.xml[0m[0K
+        [0;31mdeleted:    public/publication/kan2017functional/index.html[0m[0K
+        [0;31mdeleted:    public/publication/kan2017functional/kan2017functional.bib[0m[0K
+        [0;31mdeleted:    public/publication/li2016clinical/index.html[0m[0K
+        [0;31mdeleted:    public/publication/li2016clinical/li2016clinical.bib[0m[0K
+        [0;31mdeleted:    public/publication/li2016development/index.html[0m[0K
+        [0;31mdeleted:    public/publication/li2016development/li2016development.bib[0m[0K
+        [0;31mdeleted:    public/publication/li2016mutation/index.html[0m[0K
+        [0;31mdeleted:    public/publication/li2016mutation/li2016mutation.bib[0m[0K
+        [0;31mdeleted:    public/publication/li2017bilateral/index.html[0m[0K
+        [0;31mdeleted:    public/publication/li2017bilateral/li2017bilateral.bib[0m[0K
+        [0;31mdeleted:    public/publication/li2017more/index.html[0m[0K
+        [0;31mdeleted:    public/publication/li2017more/li2017more.bib[0m[0K
+        [0;31mdeleted:    public/publication/liu2015ibs/index.html[0m[0K
+        [0;31mdeleted:    public/publication/liu2015ibs/liu2015ibs.bib[0m[0K
+        [0;31mdeleted:    public/publication/liu2016conformation/index.html[0m[0K
+        [0;31mdeleted:    public/publication/liu2016conformation/liu2016conformation.bib[0m[0K
+        [0;31mdeleted:    public/publication/liu2016htert/index.html[0m[0K
+        [0;31mdeleted:    public/publication/liu2016htert/liu2016htert.bib[0m[0K
+        [0;31mdeleted:    public/publication/liu2018dysregulation/index.html[0m[0K
+        [0;31mdeleted:    public/publication/liu2018dysregulation/liu2018dysregulation.bib[0m[0K
+        [0;31mdeleted:    public/publication/lu2018me1/index.html[0m[0K
+        [0;31mdeleted:    public/publication/lu2018me1/lu2018me1.bib[0m[0K[?25h[?25l
+        [0;31mdeleted:    public/publication/person-re-id/featured.jpg[0m[0K
+        [0;31mdeleted:    public/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_150x0_resize_q75_box.jpg[0m[0K
+        [0;31mdeleted:    public/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_1600x400_fill_q90_box_smar[0Kt
+1.jpg[0m[0K
+        [0;31mdeleted:    public/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_680x500_fill_q90_box_smart[0K1
+.jpg[0m[0K
+        [0;31mdeleted:    public/publication/person-re-id/index.html[0m[0K
+        [0;31mdeleted:    public/publication/shi2015systematic/index.html[0m[0K
+        [0;31mdeleted:    public/publication/shi2015systematic/shi2015systematic.bib[0m[0K
+        [0;31mdeleted:    public/publication/wang2018cpt1a/index.html[0m[0K
+        [0;31mdeleted:    public/publication/wang2018cpt1a/wang2018cpt1a.bib[0m[0K
+        [0;31mdeleted:    public/publication/wang2018genomic/index.html[0m[0K
+        [0;31mdeleted:    public/publication/wang2018genomic/wang2018genomic.bib[0m[0K
+        [0;31mdeleted:    public/publication/xie2016gps/index.html[0m[0K
+        [0;31mdeleted:    public/publication/xie2016gps/xie2016gps.bib[0m[0K
+        [0;31mdeleted:    public/publication/xie2017virusmap/index.html[0m[0K
+        [0;31mdeleted:    public/publication/xie2017virusmap/xie2017virusmap.bib[0m[0K
+        [0;31mdeleted:    public/publication/xu2017circulating/index.html[0m[0K
+        [0;31mdeleted:    public/publication/xu2017circulating/xu2017circulating.bib[0m[0K
+        [0;31mdeleted:    public/publication/ye2018whole/index.html[0m[0K
+        [0;31mdeleted:    public/publication/ye2018whole/ye2018whole.bib[0m[0K
+        [0;31mdeleted:    public/publication/zeng2018microrna/index.html[0m[0K
+        [0;31mdeleted:    public/publication/zeng2018microrna/zeng2018microrna.bib[0m[0K
+        [0;31mdeleted:    public/publication/zhang2017expression/index.html[0m[0K
+        [0;31mdeleted:    public/publication/zhang2017expression/zhang2017expression.bib[0m[0K
+        [0;31mdeleted:    public/publication/zhao2014gps/index.html[0m[0K
+        [0;31mdeleted:    public/publication/zhao2014gps/zhao2014gps.bib[0m[0K
+        [0;31mdeleted:    public/publication/zhao2018idea/index.html[0m[0K
+        [0;31mdeleted:    public/publication/zhao2018idea/zhao2018idea.bib[0m[0K
+        [0;31mdeleted:    public/publication/zhao2018lncpipe/index.html[0m[0K
+        [0;31mdeleted:    public/publication/zhao2018lncpipe/zhao2018lncpipe.bib[0m[0K
+        [0;31mdeleted:    public/publication/zuo2018pan/index.html[0m[0K
+        [0;31mdeleted:    public/publication/zuo2018pan/zuo2018pan.bib[0m[0K
+        [0;31mdeleted:    public/publication_types/0/index.html[0m[0K
+        [0;31mdeleted:    public/publication_types/0/index.xml[0m[0K
+        [0;31mdeleted:    public/publication_types/0/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/publication_types/1/index.html[0m[0K
+        [0;31mdeleted:    public/publication_types/1/index.xml[0m[0K
+        [0;31mdeleted:    public/publication_types/1/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/publication_types/2/index.html[0m[0K
+        [0;31mdeleted:    public/publication_types/2/index.xml[0m[0K
+        [0;31mdeleted:    public/publication_types/2/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/publication_types/2/page/2/index.html[0m[0K
+        [0;31mdeleted:    public/publication_types/2/page/3/index.html[0m[0K
+        [0;31mdeleted:    public/publication_types/index.html[0m[0K
+        [0;31mdeleted:    public/publication_types/index.xml[0m[0K
+        [0;31mdeleted:    public/publication_types/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/site.webmanifest[0m[0K
+        [0;31mdeleted:    public/sitemap.xml[0m[0K
+        [0;31mdeleted:    public/slides/example-slides/index.html[0m[0K
+        [0;31mdeleted:    public/slides/index.xml[0m[0K
+        [0;31mdeleted:    public/styles.css[0m[0K
+        [0;31mdeleted:    public/tags/academic/index.html[0m[0K
+        [0;31mdeleted:    public/tags/academic/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/academic/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/bed/index.html[0m[0K
+        [0;31mdeleted:    public/tags/bed/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/bed/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/data-format/index.html[0m[0K
+        [0;31mdeleted:    public/tags/data-format/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/data-format/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/deep-learning/index.html[0m[0K
+        [0;31mdeleted:    public/tags/deep-learning/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/deep-learning/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/demo/index.html[0m[0K
+        [0;31mdeleted:    public/tags/demo/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/demo/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/index.html[0m[0K
+        [0;31mdeleted:    public/tags/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/plot/index.html[0m[0K
+        [0;31mdeleted:    public/tags/plot/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/plot/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/processing/index.html[0m[0K
+        [0;31mdeleted:    public/tags/processing/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/processing/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/r-markdown/index.html[0m[0K
+        [0;31mdeleted:    public/tags/r-markdown/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/r-markdown/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/regression/index.html[0m[0K
+        [0;31mdeleted:    public/tags/regression/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/regression/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/tags/setting/index.html[0m[0K
+        [0;31mdeleted:    public/tags/setting/index.xml[0m[0K
+        [0;31mdeleted:    public/tags/setting/page/1/index.html[0m[0K
+        [0;31mdeleted:    public/talk/example/featured.jpg[0m[0K
+        [0;31mdeleted:    public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_box.jpg[0m[0K
+        [0;31mdeleted:    public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_1600x400_fill_q90_box_right.jpg[0m[0K
+        [0;31mdeleted:    public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_680x500_fill_q90_box_right.jpg[0m[0K
+        [0;31mdeleted:    public/talk/example/index.html[0m[0K
+        [0;31mdeleted:    public/talk/index.html[0m[0K
+        [0;31mdeleted:    public/talk/index.xml[0m[0K
+        [0;31mdeleted:    public/tutorial/example/index.html[0m[0K
+        [0;31mdeleted:    public/tutorial/index.html[0m[0K
+        [0;31mdeleted:    public/tutorial/index.xml[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "delete public"[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git remote add origin https://github.com/likelet/HUGO_webcode.git[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25hEverything up-to-date[0K[?25l
+Branch 'master' set up to track remote branch 'master' from 'origin'.[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:[0K[?25hl[0Ki[0Kk[0Ke[0Kl[0Ke[0Kt[0K/[0Kl[0Ki[0Kk[0Ke[0Kl[0Ke[0Kt[0K./[0K[?25l$ git submodule add -b master git@github.com:likelet/likelet.[0K[?25hg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Ki[0Ko[0K[72G[71G[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.[0K[?25hi[0K[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.[0K[?25hg[0Ki[0Kt[0K[76G[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git p[0K[?25hu[0Kb[0Kl[0Ki[0Kc[0Kh[0K[84G[83G[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
+[0K[?25h'public' already exists in the index[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25ho[0Km[0Km[0K[?25l$ com[0K[?25h[?25l$ co[0K[?25h[?25l$ c[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25h
