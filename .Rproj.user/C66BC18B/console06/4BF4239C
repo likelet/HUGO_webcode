@@ -630,4 +630,412 @@ $[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:[0K[?25hl[
 [0K[?25h[?25l
 [0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ c[0K[?25ho[0Km[0Km[0K[?25l$ com[0K[?25h[?25l$ co[0K[?25h[?25l$ c[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
-[0K[?25h
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add -A[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "delete public"[0K[?25h[?25l
+[0K[?25h[master 7f5b089] delete public[0K[?25l
+ 183 files changed, 453 insertions(+), 48602 deletions(-)[0K
+ delete mode 100644 public/404.html[0K
+ delete mode 100644 public/categories/index.html[0K
+ delete mode 100644 public/categories/index.xml[0K
+ delete mode 100644 public/categories/install/index.html[0K
+ delete mode 100644 public/categories/install/index.xml[0K
+ delete mode 100644 public/categories/install/page/1/index.html[0K
+ delete mode 100644 public/categories/page/1/index.html[0K
+ delete mode 100644 public/categories/r/index.html[0K
+ delete mode 100644 public/categories/r/index.xml[0K
+ delete mode 100644 public/categories/r/page/1/index.html[0K
+ delete mode 100644 public/css/reveal_custom.min.css[0K
+ delete mode 100644 public/home/index.xml[0K
+ delete mode 100644 public/img/IMG_0589.JPG[0K
+ delete mode 100644 public/img/boards.jpg[0K
+ delete mode 100644 public/img/headers/bubbles-wide.jpg[0K
+ delete mode 100644 public/img/icon-192.png[0K
+ delete mode 100644 public/img/icon.png[0K
+ delete mode 100644 public/img/photo.jpg[0K
+ delete mode 100644 public/img/portrait.jpg[0K
+ delete mode 100644 public/index.html[0K
+ delete mode 100644 public/index.json[0K
+ delete mode 100644 public/index.xml[0K
+ delete mode 100644 public/js/hugo-academic.js[0K
+ delete mode 100644 public/js/search.js[0K
+ delete mode 100644 public/js/vendor/reveal.js/plugin/notes/notes.html[0K
+ delete mode 100644 public/js/vendor/reveal.js/plugin/notes/notes.js[0K
+ delete mode 100644 public/post/2015-07-23-r-rmarkdown/index.html[0K
+ delete mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[0K
+ delete mode 100644 public/post/2018-07-08-r-rmarkdown/index.html[0K
+ delete mode 100644 public/post/2018-07-20-r-rmarkdown/index.html[0K
+ delete mode 100644 public/post/2018-07-20-tabix-your-bed/index.html[0K
+ delete mode 100644 public/post/getting-started/featured.jpg[0K
+ delete mode 100644 public/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q75_box.jpg[0K
+ delete mode 100644 public/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_1600x400_fill_q90_box_smart1.j[0Kp
+g[0K
+ delete mode 100644 public/post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_680x500_fill_q90_box_smart1.jp[0Kg
+[0K
+ delete mode 100644 public/post/getting-started/index.html[0K
+ delete mode 100644 public/post/index.html[0K
+ delete mode 100644 public/post/index.xml[0K
+ delete mode 100644 public/post/page/1/index.html[0K
+ delete mode 100644 public/privacy/index.html[0K
+ delete mode 100644 public/project/external-project/featured.jpg[0K
+ delete mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_1600x400_fill_q90_box_smar[0Kt
+1.jpg[0K
+ delete mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_550x550_fill_q90_box_smart[0K1
+.jpg[0K
+ delete mode 100644 public/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_680x500_fill_q90_box_smart[0K1
+.jpg[0K
+ delete mode 100644 public/project/external-project/index.html[0K
+ delete mode 100644 public/project/index.html[0K
+ delete mode 100644 public/project/index.xml[0K
+ delete mode 100644 public/project/internal-project/featured.jpg[0K
+ delete mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_1600x400_fill_q90_box_smar[0Kt
+1.jpg[0K
+ delete mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x550_fill_q90_box_smart[0K1
+.jpg[0K
+ delete mode 100644 public/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_680x500_fill_q90_box_smart[0K1
+.jpg[0K
+ delete mode 100644 public/project/internal-project/index.html[0K
+ delete mode 100644 public/project/page/1/index.html[0K
+ delete mode 100644 public/publication/bai2016chemotherapy/bai2016chemotherapy.bib[0K
+ delete mode 100644 public/publication/bai2016chemotherapy/index.html[0K
+ delete mode 100644 public/publication/clothing-search/cite.bib[0K
+ delete mode 100644 public/publication/clothing-search/featured.jpg[0K
+ delete mode 100644 public/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q75_box.jp[0Kg
+[0K
+ delete mode 100644 public/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_1600x400_fill_q90_box_s[0Km
+art1.jpg[0K
+ delete mode 100644 public/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_680x500_fill_q90_box_sm[0Ka
+rt1.jpg[0K
+ delete mode 100644 public/publication/clothing-search/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_918x517_fill_q90_box_sm[0Ka
+rt1.jpg[0K
+ delete mode 100644 public/publication/clothing-search/index.html[0K
+ delete mode 100644 public/publication/feng2017firmiana/feng2017firmiana.bib[0K
+ delete mode 100644 public/publication/feng2017firmiana/index.html[0K
+ delete mode 100644 public/publication/index.html[0K
+ delete mode 100644 public/publication/index.xml[0K
+ delete mode 100644 public/publication/kan2017functional/index.html[0K
+ delete mode 100644 public/publication/kan2017functional/kan2017functional.bib[0K
+ delete mode 100644 public/publication/li2016clinical/index.html[0K
+ delete mode 100644 public/publication/li2016clinical/li2016clinical.bib[0K
+ delete mode 100644 public/publication/li2016development/index.html[0K
+ delete mode 100644 public/publication/li2016development/li2016development.bib[0K
+ delete mode 100644 public/publication/li2016mutation/index.html[0K
+ delete mode 100644 public/publication/li2016mutation/li2016mutation.bib[0K
+ delete mode 100644 public/publication/li2017bilateral/index.html[0K
+ delete mode 100644 public/publication/li2017bilateral/li2017bilateral.bib[0K
+ delete mode 100644 public/publication/li2017more/index.html[0K
+ delete mode 100644 public/publication/li2017more/li2017more.bib[0K
+ delete mode 100644 public/publication/liu2015ibs/index.html[0K
+ delete mode 100644 public/publication/liu2015ibs/liu2015ibs.bib[0K
+ delete mode 100644 public/publication/liu2016conformation/index.html[0K
+ delete mode 100644 public/publication/liu2016conformation/liu2016conformation.bib[0K
+ delete mode 100644 public/publication/liu2016htert/index.html[0K
+ delete mode 100644 public/publication/liu2016htert/liu2016htert.bib[0K
+ delete mode 100644 public/publication/liu2018dysregulation/index.html[0K
+ delete mode 100644 public/publication/liu2018dysregulation/liu2018dysregulation.bib[0K
+ delete mode 100644 public/publication/lu2018me1/index.html[0K
+ delete mode 100644 public/publication/lu2018me1/lu2018me1.bib[0K
+ delete mode 100644 public/publication/person-re-id/featured.jpg[0K
+ delete mode 100644 public/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_150x0_resize_q75_box.jpg[0K
+ delete mode 100644 public/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_1600x400_fill_q90_box_smar[0Kt
+1.jpg[0K
+ delete mode 100644 public/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_680x500_fill_q90_box_smart[0K1
+.jpg[0K
+ delete mode 100644 public/publication/person-re-id/index.html[0K
+ delete mode 100644 public/publication/shi2015systematic/index.html[0K
+ delete mode 100644 public/publication/shi2015systematic/shi2015systematic.bib[0K
+ delete mode 100644 public/publication/wang2018cpt1a/index.html[0K
+ delete mode 100644 public/publication/wang2018cpt1a/wang2018cpt1a.bib[0K
+ delete mode 100644 public/publication/wang2018genomic/index.html[0K
+ delete mode 100644 public/publication/wang2018genomic/wang2018genomic.bib[0K
+ delete mode 100644 public/publication/xie2016gps/index.html[0K
+ delete mode 100644 public/publication/xie2016gps/xie2016gps.bib[0K
+ delete mode 100644 public/publication/xie2017virusmap/index.html[0K
+ delete mode 100644 public/publication/xie2017virusmap/xie2017virusmap.bib[0K
+ delete mode 100644 public/publication/xu2017circulating/index.html[0K
+ delete mode 100644 public/publication/xu2017circulating/xu2017circulating.bib[0K
+ delete mode 100644 public/publication/ye2018whole/index.html[0K
+ delete mode 100644 public/publication/ye2018whole/ye2018whole.bib[0K
+ delete mode 100644 public/publication/zeng2018microrna/index.html[0K
+ delete mode 100644 public/publication/zeng2018microrna/zeng2018microrna.bib[0K
+ delete mode 100644 public/publication/zhang2017expression/index.html[0K
+ delete mode 100644 public/publication/zhang2017expression/zhang2017expression.bib[0K
+ delete mode 100644 public/publication/zhao2014gps/index.html[0K
+ delete mode 100644 public/publication/zhao2014gps/zhao2014gps.bib[0K
+ delete mode 100644 public/publication/zhao2018idea/index.html[0K
+ delete mode 100644 public/publication/zhao2018idea/zhao2018idea.bib[0K
+ delete mode 100644 public/publication/zhao2018lncpipe/index.html[0K
+ delete mode 100644 public/publication/zhao2018lncpipe/zhao2018lncpipe.bib[0K
+ delete mode 100644 public/publication/zuo2018pan/index.html[0K
+ delete mode 100644 public/publication/zuo2018pan/zuo2018pan.bib[0K
+ delete mode 100644 public/publication_types/0/index.html[0K
+ delete mode 100644 public/publication_types/0/index.xml[0K
+ delete mode 100644 public/publication_types/0/page/1/index.html[0K
+ delete mode 100644 public/publication_types/1/index.html[0K
+ delete mode 100644 public/publication_types/1/index.xml[0K
+ delete mode 100644 public/publication_types/1/page/1/index.html[0K
+ delete mode 100644 public/publication_types/2/index.html[0K
+ delete mode 100644 public/publication_types/2/index.xml[0K
+ delete mode 100644 public/publication_types/2/page/1/index.html[0K
+ delete mode 100644 public/publication_types/2/page/2/index.html[0K
+ delete mode 100644 public/publication_types/2/page/3/index.html[0K
+ delete mode 100644 public/publication_types/index.html[0K
+ delete mode 100644 public/publication_types/index.xml[0K
+ delete mode 100644 public/publication_types/page/1/index.html[0K
+ delete mode 100644 public/site.webmanifest[0K
+ delete mode 100644 public/sitemap.xml[0K
+ delete mode 100644 public/slides/example-slides/index.html[0K
+ delete mode 100644 public/slides/index.xml[0K
+ delete mode 100644 public/styles.css[0K
+ delete mode 100644 public/tags/academic/index.html[0K
+ delete mode 100644 public/tags/academic/index.xml[0K
+ delete mode 100644 public/tags/academic/page/1/index.html[0K
+ delete mode 100644 public/tags/bed/index.html[0K
+ delete mode 100644 public/tags/bed/index.xml[0K
+ delete mode 100644 public/tags/bed/page/1/index.html[0K
+ delete mode 100644 public/tags/data-format/index.html[0K
+ delete mode 100644 public/tags/data-format/index.xml[0K
+ delete mode 100644 public/tags/data-format/page/1/index.html[0K
+ delete mode 100644 public/tags/deep-learning/index.html[0K
+ delete mode 100644 public/tags/deep-learning/index.xml[0K
+ delete mode 100644 public/tags/deep-learning/page/1/index.html[0K
+ delete mode 100644 public/tags/demo/index.html[0K
+ delete mode 100644 public/tags/demo/index.xml[0K
+ delete mode 100644 public/tags/demo/page/1/index.html[0K
+ delete mode 100644 public/tags/index.html[0K
+ delete mode 100644 public/tags/index.xml[0K
+ delete mode 100644 public/tags/page/1/index.html[0K
+ delete mode 100644 public/tags/plot/index.html[0K
+ delete mode 100644 public/tags/plot/index.xml[0K
+ delete mode 100644 public/tags/plot/page/1/index.html[0K
+ delete mode 100644 public/tags/processing/index.html[0K
+ delete mode 100644 public/tags/processing/index.xml[0K
+ delete mode 100644 public/tags/processing/page/1/index.html[0K
+ delete mode 100644 public/tags/r-markdown/index.html[0K
+ delete mode 100644 public/tags/r-markdown/index.xml[0K
+ delete mode 100644 public/tags/r-markdown/page/1/index.html[0K
+ delete mode 100644 public/tags/regression/index.html[0K
+ delete mode 100644 public/tags/regression/index.xml[0K
+ delete mode 100644 public/tags/regression/page/1/index.html[0K
+ delete mode 100644 public/tags/setting/index.html[0K
+ delete mode 100644 public/tags/setting/index.xml[0K
+ delete mode 100644 public/tags/setting/page/1/index.html[0K
+ delete mode 100644 public/talk/example/featured.jpg[0K
+ delete mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_box.jpg[0K
+ delete mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_1600x400_fill_q90_box_right.jpg[0K
+ delete mode 100644 public/talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_680x500_fill_q90_box_right.jpg[0K
+ delete mode 100644 public/talk/example/index.html[0K
+ delete mode 100644 public/talk/index.html[0K
+ delete mode 100644 public/talk/index.xml[0K
+ delete mode 100644 public/tutorial/example/index.html[0K
+ delete mode 100644 public/tutorial/index.html[0K
+ delete mode 100644 public/tutorial/index.xml[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "delete public"[0K[?25h[?25l$ git add -A[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25hEnumerating objects: 13, done.[0K[?25l
+Counting objects: 100% (13/13), done.[0K
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (4/4), done.[0K
+Writing objects: 100% (7/7), 7.22 KiB | 3.61 MiB/s, done.[0K
+Total 7 (delta 2), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas:   0% (0/2)[0K[40G[?25lremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K
+[0K[?25hTo https://github.com/likelet/HUGO_webcode.git[0K[?25l
+   291a5a5..7f5b089  master -> master[0K
+Branch 'master' set up to track remote branch 'master' from 'origin'.[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git commit -m "delete public"[0K[?25h[?25l$ git add -A[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
+[0K[?25hCloning into 'E:/project/R/likelet.github.io/public'...[0K[?25l
+[0K[?25hWarning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.[0K[?25l
+[0K[?25hgit@github.com: Permission denied (publickey).[0K[?25l
+fatal: Could not read from remote repository.[0K
+[0K
+Please make sure you have the correct access rights[0K
+and the repository exists.[0K
+[0K[?25hfatal: clone of 'git@github.com:likelet/likelet.github.io.git' into submodule path 'E:/project/R/likelet.github.io/public' failed[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git config --global[0K[?25h[23G[?25l$ git config --global u[0K[?25hs[0Ke[0Kr.[0Kn[0Ka[0Kme[0K[33G[?25l$ git config --global user.name "[0K[?25h"[0K[34G[?25l$ git config --global user.name "l"[0K[35G[?25h[?25l$ git config --global user.name "li"[0K[36G[?25h[?25l$ git config --global user.name "lik"[0K[37G[?25h[?25l$ git config --global user.name "like"[0K[38G[?25h[?25l$ git config --global user.name "likel"[0K[39G[?25h[?25l$ git config --global user.name "likele"[0K[40G[?25h[?25l$ git config --global user.name "likelet"[0K[41G[?25h[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git config --global user.name "likelet"[0K[?25h[41G[40G[39G[38G[37G[36G[35G[34G[33G[32G[?25l$ git config --global user.nam "likelet"[0K[31G[?25h[?25l$ git config --global user.na "likelet"[0K[30G[?25h[?25l$ git config --global user.n "likelet"[0K[29G[?25h[?25l$ git config --global user. "likelet"[0K[28G[?25h[?25l$ git config --global user.e "likelet"[0K[29G[?25h[?25l$ git config --global user.em "likelet"[0K[30G[?25h[?25l$ git config --global user.ema "likelet"[0K[31G[?25h[?25l$ git config --global user.emai "likelet"[0K[32G[?25h[?25l$ git config --global user.email "likelet"[0K[33G[?25h[34G[35G[36G[37G[38G[39G[40G[41G[42G[?25l$ git config --global user.email "likele"[0K[41G[?25h[?25l$ git config --global user.email "likel"[0K[40G[?25h[?25l$ git config --global user.email "like"[0K[39G[?25h[?25l$ git config --global user.email "lik"[0K[38G[?25h[?25l$ git config --global user.email "li"[0K[37G[?25h[?25l$ git config --global user.email "l"[0K[36G[?25h[?25l$ git config --global user.email ""[0K[35G[?25h[?25l$ git config --global user.email "z"[0K[36G[?25h[?25l$ git config --global user.email "zh"[0K[37G[?25h[?25l$ git config --global user.email "zha"[0K[38G[?25h[?25l$ git config --global user.email "zhao"[0K[39G[?25h[?25l$ git config --global user.email "zhaoq"[0K[40G[?25h[?25l$ git config --global user.email "zhaoqi"[0K[41G[?25h[?25l$ git config --global user.email "zhaoqi@"[0K[42G[?25h[?25l$ git config --global user.email "zhaoqi@s"[0K[43G[?25h[?25l$ git config --global user.email "zhaoqi@sy"[0K[44G[?25h[?25l$ git config --global user.email "zhaoqi@sys"[0K[45G[?25h[?25l$ git config --global user.email "zhaoqi@sysu"[0K[46G[?25h[?25l$ git config --global user.email "zhaoqi@sysuc"[0K[47G[?25h[?25l$ git config --global user.email "zhaoqi@sysucc"[0K[48G[?25h[?25l$ git config --global user.email "zhaoqi@sysucc."[0K[49G[?25h[?25l$ git config --global user.email "zhaoqi@sysucc.o"[0K[50G[?25h[?25l$ git config --global user.email "zhaoqi@sysucc.or"[0K[51G[?25h[?25l$ git config --global user.email "zhaoqi@sysucc.o"[0K[50G[?25h[?25l$ git config --global user.email "zhaoqi@sysucc."[0K[49G[?25h[?25l$ git config --global user.email "zhaoqi@sysucc"[0K[48G[?25h[?25l$ git config --global user.email "zhaoqi@sysuc"[0K[47G[?25h[?25l$ git config --global user.email "zhaoqi@sysu"[0K[46G[?25h[?25l$ git config --global user.email "zhaoqi@sys"[0K[45G[?25h[?25l$ git config --global user.email "zhaoqi@sy"[0K[44G[?25h[?25l$ git config --global user.email "zhaoqi@s"[0K[43G[?25h[?25l$ git config --global user.email "zhaoqi@"[0K[42G[?25h[?25l$ git config --global user.email "zhaoqi"[0K[41G[?25h[?25l$ git config --global user.email "zhaoqi6"[0K[42G[?25h[?25l$ git config --global user.email "zhaoqi69"[0K[43G[?25h[?25l$ git config --global user.email "zhaoqi699"[0K[44G[?25h[?25l$ git config --global user.email "zhaoqi699@"[0K[45G[?25h[?25l$ git config --global user.email "zhaoqi699@s"[0K[46G[?25h[?25l$ git config --global user.email "zhaoqi699@si"[0K[47G[?25h[?25l$ git config --global user.email "zhaoqi699@sin"[0K[48G[?25h[?25l$ git config --global user.email "zhaoqi699@sina"[0K[49G[?25h[?25l$ git config --global user.email "zhaoqi699@sina."[0K[50G[?25h[?25l$ git config --global user.email "zhaoqi699@sina.c"[0K[51G[?25h[?25l$ git config --global user.email "zhaoqi699@sina.co"[0K[52G[?25h[?25l$ git config --global user.email "zhaoqi699@sina.com"[0K[53G[?25h[?25l$ git config --global user.email "zhaoqi699@sina.com."[0K[54G[?25h[?25l$ git config --global user.email "zhaoqi699@sina.com.c"[0K[55G[?25h[?25l$ git config --global user.email "zhaoqi699@sina.com.cn"[0K[56G[?25h[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git config --global user.email "zhaoqi699@sina.com.cn"[0K[?25h[?25l$ git config --global user.name "likelet"[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
+[0K[?25hCloning into 'E:/project/R/likelet.github.io/public'...[0K[?25l
+[0K[?25hWarning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.[0K[?25l
+[0K[?25hgit@github.com: Permission denied (publickey).[0K[?25l
+fatal: Could not read from remote repository.[0K
+[0K
+Please make sure you have the correct access rights[0K
+and the repository exists.[0K
+fatal: clone of 'git@github.com:likelet/likelet.github.io.git' into submodule path 'E:/project/R/likelet.github.io/public' failed[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C[0K[?25h[32G[?25l$ ssh-keygen -t rsa -b 4096 -C "[0K[?25h"[0K[33G[?25l$ ssh-keygen -t rsa -b 4096 -C "z"[0K[34G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zh"[0K[35G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zha"[0K[36G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhao"[0K[37G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoq"[0K[38G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi"[0K[39G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi@"[0K[40G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi"[0K[39G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi6"[0K[40G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi69"[0K[41G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699"[0K[42G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@"[0K[43G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@s"[0K[44G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@si"[0K[45G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sin"[0K[46G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina"[0K[47G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina."[0K[48G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.c"[0K[49G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.co"[0K[50G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.com"[0K[51G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.com."[0K[52G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.com.c"[0K[53G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.com."[0K[?25h[52G[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.com"[0K[?25h[51G[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.co"[0K[50G[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.com"[0K[51G[?25h[?25l
+[0K[?25hGenerating public/private rsa key pair.[0K[?25l
+[0K[?25hEnter file in which to save the key (/c/Users/Administrator/.ssh/id_rsa):[0K[75G[?25l
+[0K[?25hEnter passphrase (empty for no passphrase):[0K[45G[?25l
+Enter same passphrase again:[0K[30G[?25h[?25l
+Your identification has been saved in /c/Users/Administrator/.ssh/id_rsa.[0K
+Your public key has been saved in /c/Users/Administrator/.ssh/id_rsa.pub.[0K
+The key fingerprint is:[0K
+SHA256:w4F2a0aTXw9nPUX96yPm6r5357TOTAvYdUfBxDLUBFU zhaoqi699@sina.com[0K
+The key's randomart image is:[0K
++---[RSA 4096]----+[0K
+|            .oO*E|[0K
+|       . .   o =+|[0K
+|      o *   o =.+|[0K
+|     . + = . = .o|[0K
+|        S .   ..+|[0K
+|       o .  o ..o|[0K
+|           . o...|[0K
+|             +==+|[0K
+|          o=*.+B+|[0K
++----[SHA256]-----+[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd ssh-keygen -t rsa -b 4096 -C[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6n[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ /c/Users/Administrator/.ssh/[0K[?25h[3G[?25l$ c/c/Users/Administrator/.ssh/[0K[4G[?25h[?25l$ cd/c/Users/Administrator/.ssh/[0K[5G[?25h[?25l$ cd /c/Users/Administrator/.ssh/[0K[6G[?25h[?25l
+[0K[?25h]0;:/c/Users/Administrator/.ssh[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m~/.ssh[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25hid_rsa  id_rsa.pub  known_hosts[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m~/.ssh[0m[0K
+$[0K[3G[?25h[?25l$ m[0K[?25ho[0Kr[0Ke[0K[8G[7G[?25l$ mor[0K[?25h[?25l$ mo[0K[?25h[?25l$ m[0K[?25h[?25l$[0K[3G[?25h[?25l$ ssh-add ~/.ssh/id_rsa[0K[?25h[?25l
+[0K[?25hCould not open a connection to your authentication agent.[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m~/.ssh[0m[0K
+$[0K[3G[?25h[?25l$ eval $(ssh-agent -s)[0K[?25h[?25l
+[0K[?25hAgent pid 5336[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m~/.ssh[0m[0K
+$[0K[3G[?25h[?25l$ eval $(ssh-agent -s)[0K[?25h[?25l$ ssh-add ~/.ssh/id_rsa[0K[?25h[?25l
+[0K[?25hIdentity added: /c/Users/Administrator/.ssh/id_rsa (/c/Users/Administrator/.ssh/id_rsa)[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m~/.ssh[0m[0K
+$[0K[3G[?25h[?25l$ m[0K[?25ho[0Kr[0Ke[0K[8G[?25l$ more i[0K[?25hd[0K_rsa[0K[?25l
+bash: more: command not found[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m~/.ssh[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25ha[0Kt[0K[7G[?25l$ cat di[0K[?25h_[0K[?25l$ cat di[0K[?25h[?25l$ cat d[0K[?25h[?25l$ cat[0K[7G[?25h[?25l$ cat i[0K[?25hd[0K_[0Krsa[0K[?25l
+[0K[?25h-----BEGIN RSA PRIVATE KEY-----[0K[?25l
+MIIJKgIBAAKCAgEAwDcB7qHNx+ygiluvSrOYbWXRGmBwZDXPk/mbK3N4tHAJeMiS[0K
+rlJcZ1vW6pBKDZK+/PTiLXOV/ucSk6Q9HTtQNQBRs11ifaTPB6vr2dgVp07K0MF5[0K
+wl/bSEHlaBaCf0vcG9uuTUGRHeO95tt1hn39+Ovqv3KcuZK1u8Nqk28Rs54PnqHX[0K
+GlCrKwg7DtEg/OR+Wz3XhPIojCr5fte/y+Hpa1xVhNGL7sayoTtsd1WXsxTesQdn[0K
+DTs2B9B9nrv2O9eDIQeo2AS1A+QbcWnAjIkp30G8sjDzXEi/frF6yNRYENGvHyvA[0K
+YdhWJ8MJzTH0dFXhq5jAmKdmuvsL9QitZof8DKR3HdNa7tXFIuIuCO6xkWiGjydy[0K
+BLdNx8mdsKvtOLYJjmR3LGrvz2rL0qI1R3dP6A+TAOx3NdijdfJj4/cRd14gSOZs[0K
+rPusjvdwyT5hgBHZUnnM0roY2BHF+KsDAPqPU0Ch47Jj1vu2wav1U0tg61vyc5f4[0K
+TTvmEhQz5a9ZBtzpgLZ0PryKE19isl932Xq61N96gWw0Htq+bgj5g9yt9qf3KPBs[0K
+jZx+aTiFyzrigITsSLdGDlU00li6gWVMV9/3HScD/StIvMbiZr9WjjtFIcT0YTrx[0K
+Gl5XXOg4gqQbXvEa0l8krs78tYKlXzPnguLiKNwMECEwgLIhyd/Bngh53k0CAwEA[0K
+AQKCAgEAkxSEYfll4Slr3vMxOtQaOvvB+ZD573RNlklVNvZw0oE4fjfcJY/YLS7V[0K
+UT9/qsszYZRwzZ64lAh06oyuRwPv596Kpdk7WDEYSiJ/on36c7+S6hJh/R4kSTJD[0K
+PFadHJMLpjV/NpaJWHnAAjrDv1oBUMwVINGuo0Fj1n09u/stbGfyQ8xLMFOx5oex[0K
+yTC1MU4WcfLsS0qRRFBOAYVNudDwL7rDpZJCpT9dyIoUAWx5XAsILCYh8LnyKiCb[0K
+Py9Mx5WtPUUDKejQKl4NscbeE6uRYsiGf0N9tIvmHCfqcGoryRLqEcwEtdo4csyH[0K
+X4BuMebVe9yy4xyVO1aGW8V8CgzcC+z20XwTBzY0fldtiFfdDq6lRDYxI3ifCWRK[0K
+6fyTraDzzzrvoegmEDMc7WoaVahAWKX7F3CEW/WC5v+zYVChF6e3e/o/Duo8Vueq[0K
+SqeEb2EBKTmDhmbgia7j9L+FbjBuYu5pYZinaEeKOD8q9BPLQaSIDxZcwXNUoR6y[0K
+kquE09z++leHjVA1YGpqi2WvbNY5iqksThxNSpj7svGab8UGXVgdGW4ApCpdFCbe[0K
+MVT95vZqhyZTh6YAGmpeeq6WR1gH1ZtTMGo7h+5juRSyevgk/AKjeDgynz7le13y[0K
+ur9TwJkRbC3C0LLV9f9dW4OhZcVTuIh3JOc95eemsEMMdswoPIECggEBAOFiBKzG[0K
+XFhb+VAmN+jtFWFpYxFiY+mt6IU8BOtHksQZ5dy+M/5BJu/jvqBHH9j7sGt1lAHF[0K
+n4fqXz0zcK+3OmZKY7App05MYa8oa+pbvuXXnD9Y62dO/d3SvS+DaR+b7eiv7jXe[0K
+RgrzGSzujP3ccx5Nud++q9maVndwGEGenRxWc8zzIG8UtZlmf9GGBJ6dnLfTrMTR[0K
+xYrUeaTIw6TVe+pWVRyvNp1OFHngp8fFv2Wx37twO9ZXUePwPlN3xmp4pQq+bLf8[0K
+VhvdZAbQVKNZVk19GUxy1Z1Lv+vbYxg6IKWWYYMfCuSI2s3J+SQlvZw3v3X6kiRW[0K
+uzEHbi3TyOsy/kkCggEBANpTh1xXqhF0P1aMi3dlLGSdiQ8nAAK5FHvhXPn6B+9w[0K
+CP+hyjdYtd6MWc55atjM5HCePsVEA22KcqTM9gZtKmcQtIsW7jAqsTaNaWMOUOXX[0K
+ottgHhON9XyDS09sAIlu1dnp/smPQr0r9l6LA/nsVi6bIVYmma9zYqXVLCoplJAQ[0K
+PwJItxp1BBd8Ix25itSbpxnVOkIq3+LHsOXoqa1+Ajt2JIegFoRWoBKeZiTjjzcH[0K
+nmBjTJ38ZPqybU/xFZ97F3LTgH7V9OFmDAzmcZIKXLFGv+C3SGbES+xNpENWOjT2[0K
+vkD2BvZyGA97eStRlBJIKenRJKPT2A7KjxpE7tHFL+UCggEAdk4+R/cDiDoXH1RA[0K
+atrwKybnortz2Li54h4EMwBp8NfrSbjpj9/hMXDpojZTaFGNZIreeyOiPvTuszBq[0K
+SUIzvHf15gWnVblQWWIta2JnTTylPrdNMfhL2AGD3wnqx3XRJyAaOVqIh7zdjTFW[0K
+/vaV0uVX2TO7/0g9dQp5IRDCRZq3xHAmqUhEntYn5/KiQCRZnEDXYqT+PYaUp8Pe[0K
+top9Nh/FI35xe5b9tpAPYhTSB+6bk0cxkaxaRvzXqnanx0G22HHmnZkuFghbNhxr[0K
+ISeG3rv46KEqshuODZ8mYBQ7CNBsNSi5TgbsW7NWPPw2kGbO8H3r8nk4X18YHaQa[0K
+xiMJSQKCAQEAmI8ToCg107p6Y90Tu5t7+NbIJklnTX/M23+v+5GGp/6OmyqP5jrb[0K
+4yYJvyjCy7noyvUZAbkz+ABtedEq/XSc06Ytsp+UUx4R9P+9q5UeXG1hBJBWk+13[0K
+o8kO//GFMoO7dWl4O5oa1Zt5rbjQT3yhADIwikWw0JP9U8nw8YlaoYxoqwzqvdcU[0K
+w+BfnW7Any4hBwEjk4boKUzGxPDeWDgcETbN8eOguFrbwgbjc1V8BsURG2Nn72Gl[0K
+ojS6A8mABY/646b9PCP/2Nz5AK6qn5UUDmBUxg7szbrPHtFmPhNr2wSsDzKbzOwO[0K
++gqasfVwVZINj7AwPTZT3IoYkw+mHfj/LQKCAQEAkt2fkj79EcLY6EJPg9g24p+J[0K
+knHHkPTVeNnCGWNTfeGCGxJMt5rvwKFOuH3yCsGFskClNpiMIKHwk/cw+SHRgi+9[0K
+svUK5WawimImStmJZiBYZ+f6TlidKBznxEal+u+A4BMA62CPNnvw1K2+Nji6IcwB[0K
+ArlV23Eny1Q+9h2IPzOVD+aggGx9DWARwLDkb+7GEz4uVbP8iZDx7XqSCGNUH5a6[0K
+hZTXAHCH+MsykCjbg9xwWMRmHEzpZ9A/KmnxyF9tiTrKO6vPxYO0MkHwqfBbTn4O[0K
+LnRMTJWg9pbB6YRbga5Z+4Jr5rDsG6m0KOIW+xnG6STKK6AWdBoKnCyKnRzVrw==[0K
+-----END RSA PRIVATE KEY-----[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m~/.ssh[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25hid_rsa  id_rsa.pub  known_hosts[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m~/.ssh[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25ha[0Kt[0K[7G[?25l$ cat d[0K[?25hi[0K[?25l$ cat d[0K[?25h[?25l$ cat[0K[7G[?25h[?25l$ cat i[0K[?25hd[0K_rsa[0K.[0Kpub[0K[18G[?25l
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDANwHuoc3H7KCKW69Ks5htZdEaYHBkNc+T+Zsrc3i0cAl4yJKuUlxnW9bqkEoNkr789OItc5X+5xKTpD0dO1A1AFGzX[0KW
+J9pM8Hq+vZ2BWnTsrQwXnCX9tIQeVoFoJ/S9wb265NQZEd473m23WGff346+q/cpy5krW7w2qTbxGzng+eodcaUKsrCDsO0SD85H5bPdeE8iiMKvl+17/L4elrXFWE0Yv[0Ku
+xrKhO2x3VZezFN6xB2cNOzYH0H2eu/Y714MhB6jYBLUD5BtxacCMiSnfQbyyMPNcSL9+sXrI1FgQ0a8fK8Bh2FYnwwnNMfR0VeGrmMCYp2a6+wv1CK1mh/wMpHcd01ru1[0Kc
+Ui4i4I7rGRaIaPJ3IEt03HyZ2wq+04tgmOZHcsau/PasvSojVHd0/oD5MA7Hc12KN18mPj9xF3XiBI5mys+6yO93DJPmGAEdlSeczSuhjYEcX4qwMA+o9TQKHjsmPW+7b[0KB
+q/VTS2DrW/Jzl/hNO+YSFDPlr1kG3OmAtnQ+vIoTX2KyX3fZerrU33qBbDQe2r5uCPmD3K32p/co8GyNnH5pOIXLOuKAhOxIt0YOVTTSWLqBZUxX3/cdJwP9K0i8xuJmv[0K1
+aOO0UhxPRhOvEaXldc6DiCpBte8RrSXySuzvy1gqVfM+eC4uIo3AwQITCAsiHJ38GeCHneTQ== zhaoqi699@sina.com[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m~/.ssh[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd -[0K[?25h[?25l
+/e/project/R/likelet.github.io[0K
+[0K[?25h]0;:/e/project/R/likelet.github.io[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ cd -[0K[?25h[?25l$ cat id_rsa.pub[0K[18G[?25h[?25l$ ls[0K[?25h[?25l$ cat id_rsa[0K[?25h[?25l$ more id_rsa[0K[?25h[?25l$ ssh-add ~/.ssh/id_rsa[0K[?25h[?25l$ eval $(ssh-agent -s)[0K[?25h[?25l$ ssh-add ~/.ssh/id_rsa[0K[?25h[?25l$ ls[0K[?25h[?25l$ cd /c/Users/Administrator/.ssh/[0K[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.com"[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l$ ssh-keygen -t rsa -b 4096 -C "zhaoqi699@sina.com"[0K[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
+[0K[?25hCloning into 'E:/project/R/likelet.github.io/public'...[0K[?25l
+[0K[?25hwarning: You appear to have cloned an empty repository.[0K[?25l
+[0K[?25hfatal: 'origin/master' is not a commit and a branch 'master' cannot be created from it[0K[?25l
+[0K[?25hUnable to checkout submodule 'public'[0K[?25l
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git submodule add -b master git@github.com:likelet/likelet.github.io.git public[0K[?25h[?25l
+[0K[?25hAdding existing repo at 'public' to the index[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .gitmodules.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25hTo https://github.com/likelet/HUGO_webcode.git[0K[?25l
+ [0;31m! [rejected]       [0m master -> mast[0K[?25her (fetch first)[0K[?25l
+[0;31merror: failed to push some refs to 'https://github.com/likelet/HUGO_webcode.git'[0m[0K
+[0;33mhint: Updates were rejected because the remote contains work that you do[0m[0K
+[0;33mhint: not have locally. This is usually caused by another repository pushing[0m[0K
+[0;33mhint: to the same ref. You may want to first integrate the remote changes[0m[0K
+[0;33mhint: (e.g., 'git pull ...') before pushing again.[0m[0K
+[0;33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[0m[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[12G[?25l$ git pull o[0K[?25hr[0Ki[0Kg[0Kn[0K[?25l$ git pull orig[0K[?25hi[0Kn[0K[19G[?25l$ git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[26G[?25l
+[0K[?25hremote: Enumerating objects: 4, done.[0K[?25l
+remote: Counting objects: 100% (4/4), done.[0K
+remote: Compressing objects: 100% (2/2), done.[0K
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0[0K
+[0K[?25hUnpacking objects: 100% (3/3), done.[0K[?25l
+[0K[?25hFrom https://github.com/likelet/HUGO_webcode[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+   7f5b089..2231175  master     -> origin/master[0K
+[0K[?25hMerge made by the 'recursive' strategy.[0K[?25l
+ README.md | 1 [0;32m+[0m[0K
+ 1 file changed, 1 insertion(+)[0K
+ create mode 100644 README.md[0K
+[0K[?25h[?25l
+[0;32mAdministrator@XSA-20160504KTG [0;35m [0;33m/e/project/R/likelet.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git pull origin master[0K[26G[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[13G[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[14G
