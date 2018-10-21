@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Academic</title>
+    <link>https://likelet.github.io/</link>
+    <description>Recent content in Academic on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Page</title>
+      <link>https://likelet.github.io/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tabix your bed file to parse your bed quickly </title>
+      <link>https://likelet.github.io/post/2018-07-08-r-rmarkdown/</link>
+      <pubDate>Fri, 20 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://likelet.github.io/post/2018-07-08-r-rmarkdown/</guid>
+      <description>
+
+&lt;h2 id=&#34;tabix-your-bed-file-to-parse-your-bed-quickly&#34;&gt;Tabix your bed file to parse your bed quickly&lt;/h2&gt;
+
+&lt;p&gt;It is the first time that I realize that the &lt;code&gt;bed&lt;/code&gt;, &lt;code&gt;gtf&lt;/code&gt;, &lt;code&gt;gff&lt;/code&gt;and &lt;code&gt;vcf&lt;/code&gt; format file  can be indexed to improve their parsing efficiency.
+The story is come from the user experience for strelka2. The strelka2 was publihsed recently and i try to use it for claimed improvement on both accuracy and performance. I used the strelka1 before and found the false positive pos by such software(see this &lt;a href=&#34;https://github.com/Illumina/strelka/issues/12&#34; target=&#34;_blank&#34;&gt;issue&lt;/a&gt; ). Although the problem is not fixed yet, I still want to have a try on my current data. Hope it will be fixed soon.&lt;/p&gt;
+
+&lt;h3 id=&#34;install-tabix&#34;&gt;install Tabix&lt;/h3&gt;
+
+&lt;p&gt;The detailed description of tabix can be found &lt;a href=&#34;http://www.htslib.org/doc/tabix.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To install, i empoyed &lt;code&gt;conda&lt;/code&gt; package management system. Simplely by this command&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    sudo conda install -i bioconda tabix 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;sort-your-bed&#34;&gt;Sort your bed&lt;/h3&gt;
+
+&lt;p&gt;Tabix required your bed sorted, which can be fulfiled by this&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    sort -k 1,1 -k 2,2n -k 3,3n your.bed | bgzip -c &amp;gt; your.bed.gz
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;tabix-it&#34;&gt;tabix it&lt;/h3&gt;
+
+&lt;p&gt;Index your bed&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    tabix -pbed your.bed.gz 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;then you can find a &lt;code&gt;your.bed.gz.tbi&lt;/code&gt; file in your currenty folder.&lt;/p&gt;
+
+&lt;h3 id=&#34;run-strelka2-for-somantic-variants-calling&#34;&gt;run strelka2 for somantic variants calling&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;        #!/bin/sh
+        # read args
+        tumor=$1
+        normal=$2
+
+
+        # set path 
+        genome=/data/database/human/hg38/GDCref/GRCh38.d1.vd1.fa
+        targetBed=/backup/PDX/bedfile/Exome-Agilent_V6_hg38_chr.bed.gz
+        tumorbam=${tumor}-WES_sort_dedup_realigned_recal.bam
+        normalbam=${normal}-WES_sort_dedup_realigned_recal.bam
+
+        # creat directories 
+        if [ ! -d ${tumor}_strelka  ];then
+          mkdir ${tumor}_strelka
+        else
+          rm -rf ${tumor}_strelka
+          echo ${tumor}_strelka exist
+          echo overwrite anyway
+          mkdir ${tumor}_strelka
+        fi
+
+        # run configuration 
+
+        ${STRELKA_INSTALL_PATH}/bin/configureStrelkaSomaticWorkflow.py \
+            --normalBam $normalbam \
+            --tumorBam $tumorbam \
+            --ref $genome \
+            --callRegions $targetBed \
+            --runDir ${tumor}_strelka
+
+        ${tumor}_strelka/runWorkflow.py -m local -j 20
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blogs_tips from old site</title>
+      <link>https://likelet.github.io/post/2018-07-20-r-rmarkdown/</link>
+      <pubDate>Sun, 08 Jul 2018 21:13:14 -0500</pubDate>
+      
+      <guid>https://likelet.github.io/post/2018-07-20-r-rmarkdown/</guid>
+      <description>
+
+&lt;h1 id=&#34;blogs-tips&#34;&gt;Blogs_tips&lt;/h1&gt;
+
+&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;!-- START doctoc generated TOC please keep comment here to allow auto update --&gt;
+
+&lt;!-- DON&#39;T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#subset-bamfile-with-chromosome-names-and-convert-into-paired-fastq&#34;&gt;Subset bamfile with chromosome names and convert into paired fastq&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#cluster-management&#34;&gt;Cluster management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#r-code-for-ploting-nomograph-from-competing-risk-survival-analysis-model&#34;&gt;R code for ploting nomograph from competing risk survival analysis model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#setting-docker-download-mirror-site&#34;&gt;Setting docker download mirror site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#install-bioconductor-r-package-using-vps&#34;&gt;Install bioconductor R package using VPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#install-bioconductor-r-package-using-mirror-at-utsc&#34;&gt;Install bioconductor R package using mirror at UTSC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tips-for-using-tianhe-super-computer&#34;&gt;Tips for using Tianhe-2 super computer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;subset-bamfile-with-chromosome-names-and-convert-into-paired-fastq&#34;&gt;Subset bamfile with chromosome names and convert into paired fastq&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;software required: &lt;strong&gt;&lt;a href=&#34;https://github.com/lomereiter/sambamba&#34; target=&#34;_blank&#34;&gt;sambamba&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&#34;https://github.com/infphilo/tophat&#34; target=&#34;_blank&#34;&gt;bam2fastx&lt;/a&gt;&lt;/strong&gt; from tophat binary distribution.&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;sambamba usages should refer to &lt;a href=&#34;https://github.com/lomereiter/sambamba/wiki/%5Bsambamba-view%5D-Filter-expression-syntax#basic-conditions-for-fields&#34; target=&#34;_blank&#34;&gt;https://github.com/lomereiter/sambamba/wiki/%5Bsambamba-view%5D-Filter-expression-syntax#basic-conditions-for-fields&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;#using star output bamfile as example 
+#!/bin/sh
+bamin=$1
+#extract reads aligned to chr2
+sambamba view -F &amp;quot;ref_id==1&amp;quot; -f bam $bamin -o ${bamin%%Aligned.sortedByCoord.out.bam}_chr2.bam
+#sort reads by names if not presorted by software
+sambamba sort -n ${bamin%%Aligned.sortedByCoord.out.bam}_chr2.bam -o ${bamin%%Aligned.sortedByCoord.out.bam}_chr2.sort.bam
+#bam2fastq
+bam2fastx -PANQ -o ${bamin%%Aligned.sortedByCoord.out.bam}_chr2.fq.gz ${bamin%%Aligned.sortedByCoord.out.bam}_chr2.sort.bam
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;PS&lt;/strong&gt;: the numbers specified in &lt;code&gt;ref_id&lt;/code&gt; means the ref order list in header from bamfle, which can be checked by
+&lt;code&gt;samtools view -H your.bam&lt;/code&gt; if samtools was installed.&lt;/p&gt;
+
+&lt;h2 id=&#34;cluster-management&#34;&gt;Cluster management&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;shudown system
+Shut down computational node&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;#!/bin/sh
+for i in `seq 1 3`
+do
+ssh cu0$i &amp;quot;hostname;init 0&amp;quot;
+done
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;umount storage&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;umount /home
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;shutdown login node&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;poweroff
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;r-code-for-ploting-nomograph-from-competing-risk-survival-analysis-model&#34;&gt;R code for ploting nomograph from competing risk survival analysis model&lt;/h2&gt;
+
+&lt;p&gt;```R
+library(cmprsk)
+library(rms)&lt;/p&gt;
+
+&lt;h3 id=&#34;add-path&#34;&gt;add path&lt;/h3&gt;
+
+&lt;p&gt;setwd(&amp;ldquo;C:\Users\hh\Desktop\nomo&amp;rdquo;)
+rt&amp;lt;-read.csv(&amp;ldquo;Stomach.csv&amp;rdquo;)
+rt
+View(rt)
+attach(rt)
+#change variable names&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;cov&amp;lt;-cbind(sexC, Age, AJCC_T,AJCC_N,AJCC_M,Surgery)
+for (i in 1:6)
+{
+  cov[,i]&amp;lt;-factor(cov[,i])
+}
+status&amp;lt;-factor(status)
+z &amp;lt;- crr(time,status,cov)
+z.p &amp;lt;- predict(z,cov)
+n=60#suppose I want to predict the probability of event at time 60(an order)
+df&amp;lt;-data.frame(y=z.p[n,-1],cov)
+ddist &amp;lt;- datadist(df)&lt;br /&gt;
+options(datadist=&amp;lsquo;ddist&amp;rsquo;)
+lmod&amp;lt;-ols(y~(sexC)+(Age)+(AJCC_T)+(AJCC_N)+(AJCC_M)+(Surgery),data=df)#
+nom&amp;lt;-nomogram(lmod)
+plot(nom,lplabel=paste(&amp;ldquo;prob. of incidence T&amp;rdquo;,round(z.p[n,1],2),sep=&amp;ldquo;=&amp;rdquo;))&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;## Setting docker download mirror site 
+Sometimes you may find that it&#39;s extrimely painfull to pull docker image from docker.io in china. So this tip can help you to set a mirror site locally in your docker pull command.  
+* 1. First, find the file `/etc/docker/daemon.json` and modify it with root authority.
+```{javascript}
+{
+  &amp;quot;registry-mirrors&amp;quot;: [&amp;quot;https://registry.docker-cn.com&amp;quot;]
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Secondly, restart your docker service.&lt;/p&gt;
+
+&lt;h2 id=&#34;install-bioconductor-r-package-using-vps&#34;&gt;Install bioconductor R package using VPS.&lt;/h2&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;proxychains4 Rscript -e &amp;lsquo;source(&amp;ldquo;&lt;a href=&#34;http://bioconductor.org/biocLite.R&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://bioconductor.org/biocLite.R&amp;quot;&lt;/a&gt;); biocLite(&amp;ldquo;BSgenome&amp;rdquo;)&amp;rsquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;install-bioconductor-r-package-using-mirror-at-utsc&#34;&gt;install bioconductor R package using mirror at UTSC.&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;source(&amp;quot;http://bioconductor.org/biocLite.R&amp;quot;)
+options(BioC_mirror=&amp;quot;http://mirrors.ustc.edu.cn/bioc/&amp;quot;)
+biocLite(&amp;quot;your package&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;tips-for-using-tianhe-super-computer&#34;&gt;Tips for using Tianhe super computer&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;Logging in the data transfer server from rj account&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;ssh -p 5566 ln42&lt;br /&gt;
+  ssh tn1-ib0&lt;/p&gt;
+
+&lt;h2 id=&#34;update-r-packages&#34;&gt;update R packages&lt;/h2&gt;
+
+&lt;h1 id=&#34;set-mirror-in-local-china&#34;&gt;set mirror in local china&lt;/h1&gt;
+
+&lt;p&gt;options(BioC_mirror=&amp;ldquo;&lt;a href=&#34;http://mirrors.tuna.tsinghua.edu.cn/bioconductor&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://mirrors.tuna.tsinghua.edu.cn/bioconductor&amp;quot;&lt;/a&gt;)
+update.packages(checkBuilt=TRUE, ask=FALSE)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CPT1A-mediated fatty acid oxidation promotes colorectal cancer cell metastasis by inhibiting anoikis</title>
+      <link>https://likelet.github.io/publication/wang2018cpt1a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/wang2018cpt1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDEA: a web server for Interactive Differential Expression Analysis with R Packages</title>
+      <link>https://likelet.github.io/publication/zhao2018idea/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/zhao2018idea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LncPipe: A Nextflow-based pipeline for identification and analysis of long non-coding RNAs from RNA-Seq data.</title>
+      <link>https://likelet.github.io/publication/zhao2018lncpipe/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/zhao2018lncpipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ME1 Regulates NADPH Homeostasis to Promote Gastric Cancer Growth and Metastasis</title>
+      <link>https://likelet.github.io/publication/lu2018me1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/lu2018me1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicroRNA expression analysis of advanced colorectal cancer reveals a microRNA signature with prognostic and predictive value</title>
+      <link>https://likelet.github.io/publication/zeng2018microrna/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/zeng2018microrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan-cancer analysis reveals m6A modification is functionally important in cancer</title>
+      <link>https://likelet.github.io/publication/zuo2018pan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/zuo2018pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dysregulation of circadian genes across cancers</title>
+      <link>https://likelet.github.io/publication/liu2018dysregulation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/liu2018dysregulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genomic landscape of small cell carcinoma of the esophagus</title>
+      <link>https://likelet.github.io/publication/wang2018genomic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/wang2018genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole exome and target sequencing identifies MAP2K5 as novel susceptibility gene for familial non-medullary thyroid carcinoma</title>
+      <link>https://likelet.github.io/publication/ye2018whole/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/ye2018whole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilateral pelvic lymph node dissection for Chinese patients with penile cancer: a multicenter collaboration study</title>
+      <link>https://likelet.github.io/publication/li2017bilateral/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/li2017bilateral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circulating tumour DNA methylation markers for diagnosis and prognosis of hepatocellular carcinoma</title>
+      <link>https://likelet.github.io/publication/xu2017circulating/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/publication/xu2017circulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://likelet.github.io/talk/example/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://likelet.github.io/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
